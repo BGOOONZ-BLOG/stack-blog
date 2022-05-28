@@ -1,19 +1,18 @@
 import _ from 'lodash';
 import React from 'react';
-import ReactHtmlParser, {convertNodeToElement} from 'react-html-parser';
+import ReactHtmlParser, { convertNodeToElement } from 'react-html-parser';
 import ScriptTag from 'react-script-tag';
 
 import Link from './link';
 
-const convertChildren = (children, index) => _.map(
-    children, childNode => convertNodeToElement(childNode, index, _.noop()));
+const convertChildren = (children, index) => _.map(children, (childNode) => convertNodeToElement(childNode, index, _.noop()));
 
 export default function htmlToReact(html) {
-  if (!html) {
-    return null;
-  }
+    if (!html) {
+        return null;
+    }
     return ReactHtmlParser(html, {
-  transform: (node, index) => {
+        transform: (node, index) => {
             if (node.type === 'script') {
                 if (!_.isEmpty(node.children)) {
                     return (
@@ -22,16 +21,20 @@ export default function htmlToReact(html) {
                         </ScriptTag>
                     );
                 } else {
-                    return <ScriptTag key={index} {...node.attribs}/>;
+                    return <ScriptTag key={index} {...node.attribs} />;
                 }
             } else if (node.type === 'tag' && node.name === 'a') {
                 const href = node.attribs.href;
                 const props = _.omit(node.attribs, 'href');
                 // use Link only if there are no custom attributes like style, class, and what's not that might break react
                 if (_.isEmpty(props)) {
-                    return <Link key={index} to={href} {...props}>{convertChildren(node.children, index)}</Link>;
+                    return (
+                        <Link key={index} to={href} {...props}>
+                            {convertChildren(node.children, index)}
+                        </Link>
+                    );
                 }
             }
         }
     });
-};
+}
