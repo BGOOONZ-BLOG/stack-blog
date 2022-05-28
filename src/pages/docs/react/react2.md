@@ -11,8 +11,6 @@ seo:
 template: docs
 ---
 
-
-
 ### Introduction to React for Complete Beginners
 
 All of the code examples below will be included a second time at the bottom of this article as an embedded gist, so that it is properly syntax highlighted.
@@ -64,10 +62,7 @@ React has a few different kinds of components, but we'll start with `React.Compo
 
     // Example usage: <ShoppingList name="Mark" />
 
-
-
 <details>
-
 
 <summary> More About React </summary>
 
@@ -94,8 +89,9 @@ Below I am creating a React component by invoking the `React.createClass` functi
 As you can see, the `MySelect` component is made up of some styles and an empty React `<div>` node element.
 
 ```js
-const MySelect = React.createClass({ //define MySelect component
-    render: function(){
+const MySelect = React.createClass({
+    //define MySelect component
+    render: function () {
         const mySelectStyle = {
             border: '1px solid #999',
             display: 'inline-block',
@@ -135,13 +131,14 @@ Examine the updated JavaScript code below which defines both the `<MySelect>` an
 
 ```js
 const MySelect = React.createClass({
-    render: function(){
+    render: function () {
         const mySelectStyle = {
             border: '1px solid #999',
             display: 'inline-block',
             padding: '5px'
         };
-        return ( //react div element, via JSX, containing <MyOption> component
+        return (
+            //react div element, via JSX, containing <MyOption> component
             <div style={mySelectStyle}>
                 <MyOption value="Volvo"></MyOption>
                 <MyOption value="Saab"></MyOption>
@@ -152,8 +149,9 @@ const MySelect = React.createClass({
     }
 });
 
-const MyOption = React.createClass({  //define MyOption component
-    render: function(){
+const MyOption = React.createClass({
+    //define MyOption component
+    render: function () {
         return <div>{this.props.value}</div>; //react div element, via JSX
     }
 });
@@ -197,10 +195,11 @@ I've updated the code below accordingly to add state to the component. As I am m
 
 ```js
 const MySelect = React.createClass({
-    getInitialState: function(){ //add selected, default state
-        return {selected: false}; //this.state.selected = false;
+    getInitialState: function () {
+        //add selected, default state
+        return { selected: false }; //this.state.selected = false;
     },
-    render: function(){
+    render: function () {
         const mySelectStyle = {
             border: '1px solid #999',
             display: 'inline-block',
@@ -218,7 +217,7 @@ const MySelect = React.createClass({
 });
 
 const MyOption = React.createClass({
-    render: function(){
+    render: function () {
         return <div>{this.props.value}</div>;
     }
 });
@@ -230,17 +229,20 @@ With the default state set, next we'll add a callback function called `select` t
 
 ```js
 const MySelect = React.createClass({
-    getInitialState: function(){
-        return {selected: false};
+    getInitialState: function () {
+        return { selected: false };
     },
-    select:function(event){// added select function
-        if(event.target.textContent === this.state.selected){//remove selection
-            this.setState({selected: false}); //update state
-        }else{//add selection
-            this.setState({selected: event.target.textContent}); //update state
-        }   
+    select: function (event) {
+        // added select function
+        if (event.target.textContent === this.state.selected) {
+            //remove selection
+            this.setState({ selected: false }); //update state
+        } else {
+            //add selection
+            this.setState({ selected: event.target.textContent }); //update state
+        }
     },
-    render: function(){
+    render: function () {
         const mySelectStyle = {
             border: '1px solid #999',
             display: 'inline-block',
@@ -258,7 +260,7 @@ const MySelect = React.createClass({
 });
 
 const MyOption = React.createClass({
-    render: function(){
+    render: function () {
         return <div>{this.props.value}</div>;
     }
 });
@@ -272,23 +274,24 @@ With that in place we can add `onClick={this.props.select}` to the `<MyOption>` 
 
 ```js
 const MySelect = React.createClass({
-    getInitialState: function(){
-        return {selected: false};
+    getInitialState: function () {
+        return { selected: false };
     },
-    select:function(event){
-        if(event.target.textContent === this.state.selected){
-            this.setState({selected: false});
-        }else{
-            this.setState({selected: event.target.textContent});
-        }   
+    select: function (event) {
+        if (event.target.textContent === this.state.selected) {
+            this.setState({ selected: false });
+        } else {
+            this.setState({ selected: event.target.textContent });
+        }
     },
-    render: function(){
+    render: function () {
         const mySelectStyle = {
             border: '1px solid #999',
             display: 'inline-block',
             padding: '5px'
         };
-        return (//pass reference, using props, to select callback to <MyOption>
+        return (
+            //pass reference, using props, to select callback to <MyOption>
             <div style={mySelectStyle}>
                 <MyOption select={this.select} value="Volvo"></MyOption>
                 <MyOption select={this.select} value="Saab"></MyOption>
@@ -300,7 +303,8 @@ const MySelect = React.createClass({
 });
 
 const MyOption = React.createClass({
-    render: function(){//add event handler that will invoke select callback
+    render: function () {
+        //add event handler that will invoke select callback
         return <div onClick={this.props.select}>{this.props.value}</div>;
     }
 });
@@ -322,55 +326,47 @@ Before moving on to the role of the virtual DOM I do want to stress that you don
 
 ```js
 const MySelect = React.createClass({
-  displayName: 'MySelect',
+    displayName: 'MySelect',
 
-  getInitialState: function getInitialState() {
-    return { selected: false };
-  },
-  select: function select(event) {
-    if (event.target.textContent === this.state.selected) {
-      this.setState({ selected: false });
-    } else {
-      this.setState({ selected: event.target.textContent });
+    getInitialState: function getInitialState() {
+        return { selected: false };
+    },
+    select: function select(event) {
+        if (event.target.textContent === this.state.selected) {
+            this.setState({ selected: false });
+        } else {
+            this.setState({ selected: event.target.textContent });
+        }
+    },
+    render: function render() {
+        const mySelectStyle = {
+            border: '1px solid #999',
+            display: 'inline-block',
+            padding: '5px'
+        };
+        return React.createElement(
+            'div',
+            { style: mySelectStyle },
+            React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Volvo' }),
+            React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Saab' }),
+            React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Mercedes' }),
+            React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Audi' })
+        );
     }
-  },
-  render: function render() {
-    const mySelectStyle = {
-      border: '1px solid #999',
-      display: 'inline-block',
-      padding: '5px'
-    };
-    return React.createElement(
-      'div',
-      { style: mySelectStyle },
-      React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Volvo' }),
-      React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Saab' }),
-      React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Mercedes' }),
-      React.createElement(MyOption, { state: this.state.selected, select: this.select, value: 'Audi' })
-    );
-  }
 });
 
 const MyOption = React.createClass({
-  displayName: 'MyOption',
+    displayName: 'MyOption',
 
-  render: function render() {
-    const selectedStyle = { backgroundColor: 'red', color: '#fff', cursor: 'pointer' };
-    const unSelectedStyle = { cursor: 'pointer' };
-    if (this.props.value === this.props.state) {
-      return React.createElement(
-        'div',
-        { style: selectedStyle, onClick: this.props.select },
-        this.props.value
-      );
-    } else {
-      return React.createElement(
-        'div',
-        { style: unSelectedStyle, onClick: this.props.select },
-        this.props.value
-      );
+    render: function render() {
+        const selectedStyle = { backgroundColor: 'red', color: '#fff', cursor: 'pointer' };
+        const unSelectedStyle = { cursor: 'pointer' };
+        if (this.props.value === this.props.state) {
+            return React.createElement('div', { style: selectedStyle, onClick: this.props.select }, this.props.value);
+        } else {
+            return React.createElement('div', { style: unSelectedStyle, onClick: this.props.select }, this.props.value);
+        }
     }
-  }
 });
 
 ReactDOM.render(React.createElement(MySelect, null), document.getElementById('app'));
@@ -384,14 +380,13 @@ Hopefully you notice the only interaction with the real DOM we had during the cr
 
 Because the DOM has been completely abstracted by the Virtual DOM this allows for a heavy handed performance pattern of updating the real DOM when state is changed. The Virtual DOM keeps track of UI changes based on state and props. It then compares that to the real DOM, and then makes only the minimal changes required to update the UI. In other words, the real DOM is only ever patched with the minimal changes needed when state or props change.
 
-- Seeing these performant updates in real time will often clarify any confusion about the performant DOM diffing. Look at the animated image below showcasing the usage (i.e., changing state) of the UI component we created in this chapter.
+-   Seeing these performant updates in real time will often clarify any confusion about the performant DOM diffing. Look at the animated image below showcasing the usage (i.e., changing state) of the UI component we created in this chapter.
 
-- Notice that as the UI component changes state only the minimally needed changes to the real DOM are occurring. We know that React is doing it's job because the only parts of the real DOM that are actually being updated are the parts with a green outline/background. The entire UI component is not being updated on each state change, only the parts that require a change.
+-   Notice that as the UI component changes state only the minimally needed changes to the real DOM are occurring. We know that React is doing it's job because the only parts of the real DOM that are actually being updated are the parts with a green outline/background. The entire UI component is not being updated on each state change, only the parts that require a change.
 
 > Let me be clear, this isn't a revolutionary concept. You could accomplish the same thing with some carefully crafted and performant minded jQuery code. However, by using React you'll rarely, if ever, have to think about it. The Virtual DOM is doing all the performance work for you. In a sense, this is the best type of jQuery/DOM abstraction possible. One where you don't even have to worry about, or code for, the DOM. It all just happens behinds the scene without you ever implicitly having to interact with the DOM itself.
 
 Now, it might be tempting to leave this overview thinking the value of React is contained in the fact that it almost eliminates the need for something like jQuery. And while the Virtual DOM is certainly a relief when compared to implicit jQuery code, the value of React does not rest alone on the Virtual DOM. The Virtual DOM is just the icing on the cake. Simply stated, the value of React rests upon the fact it provides a simple and maintainable pattern for creating a tree of UI components. Imagine how simple programming a UI could be by defining the entire interface of your application using reusable React components alone.
-
 
 </details>
 
@@ -406,7 +401,7 @@ The `render` method returns a _description_ of what you want to see on the scree
       React.createElement('ul', /* ... ul children ... */)
     );
 
-```
+````
 
 ---
 
@@ -443,7 +438,7 @@ The code editor has a JSX element similar to what you created in the last challe
       </div>
     );
 
-```
+````
 
 ---
 
@@ -481,7 +476,7 @@ The code editor has a JSX element similar to what you created in the last challe
 
 ### Ans:
 
-```js
+````js
 
  const JSX = (
       <div className="myDiv">
@@ -499,9 +494,9 @@ The code editor has a JSX element similar to what you created in the last challe
 
 > _For example the line-break tag can be written as_ `<br>` _or as_ `<br />,` _but should never be written as_ `<br></br>`_, since it doesn't contain any content._
 
-> _In JSX, the rules are a little different. Any JSX element can be written with a self-closing tag, and every element must be closed.  
-> The line-break tag, for example, must always be written as_ `<br />` _in order to be valid JSX that can be transpiled.  
-> A_ `<div>`_, on the other hand, can be written as_ `<div />`_or_`<div></div>`_.  
+> _In JSX, the rules are a little different. Any JSX element can be written with a self-closing tag, and every element must be closed.
+> The line-break tag, for example, must always be written as_ `<br />` _in order to be valid JSX that can be transpiled.
+> A_ `<div>`_, on the other hand, can be written as_ `<div />`_or_`<div></div>`_.
 > The difference is that in the first syntax version there is no way to include anything in the_ `<div />`_._
 
 ### Fix the errors in the code editor so that it is valid JSX and successfully transpiles. Make sure you don't change any of the content — you only need to close tags where they are needed.
@@ -529,7 +524,7 @@ The code editor has a JSX element similar to what you created in the last challe
       </div>
     );
 
-```
+````
 
 ---
 
@@ -641,11 +636,9 @@ Note: The text is considered a child of the div element, so you will not be able
 
 ---
 
-
 <details>
 
-<summary>  See More </summary>   
-
+<summary>  See More </summary>
 
 ### React: Create a Component with Composition
 
@@ -706,12 +699,9 @@ Note: The text is considered a child of the div element, so you will not be able
 
 ### Ans:
 
-
-
 <details>
 
-<summary>  Answers </summary>   
-
+<summary>  Answers </summary>
 
     const ChildComponent = () => {
       return (
@@ -736,13 +726,14 @@ Note: The text is considered a child of the div element, so you will not be able
         );
       }
     };
-```
+
+````
 
 
 
-    
- </details>   
-    
+
+ </details>
+
 
 ### More Examples:
 
@@ -843,7 +834,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders an alert component with <code>type</code> prop.</p>
@@ -908,7 +899,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Alert = ({ isDefaultShown = false, timeout = 250, type, message }) =&gt; {
   const [isShown, setIsShown] = React.useState(isDefaultShown);
@@ -953,7 +944,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a string as plaintext, with URLs converted to appropriate link elements.</p>
@@ -1047,7 +1038,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Carousel = ({ carouselItems, ...rest }) =&gt; {
   const [active, setActive] = React.useState(0);
@@ -1088,7 +1079,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a component with collapsible content.</p>
@@ -1113,7 +1104,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Collapse = ({ collapsed, children }) =&gt; {
   const [isCollapsed, setIsCollapsed] = React.useState(collapsed);
@@ -1148,7 +1139,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a controlled <code>&lt;input&gt;</code> element that uses a callback function to inform its parent about value updates.</p>
@@ -1358,7 +1349,7 @@ ReactDOM.render(&lt;DataTable data={people} /&gt;, document.getElementById(&quot
 
 </div>
 
-```js
+````js
 
 const FileDrop = ({ onDrop }) =&gt; {
   const [drag, setDrag] = React.useState(false);
@@ -1432,7 +1423,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a textarea component with a character limit.</p>
@@ -1584,7 +1575,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Loader = ({ size }) =&gt; {
   return (
@@ -1611,7 +1602,7 @@ const Loader = ({ size }) =&gt; {
 
 ReactDOM.render(&lt;Loader size={24} /&gt;, document.getElementById(&quot;root&quot;));
 
-```
+````
 
 <hr />
 <p>Renders a link formatted to send an email (<code>mailto:</code> link).</p>
@@ -1798,7 +1789,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Modal = ({ isVisible = false, title, content, footer, onClose }) =&gt; {
   const keydownHandler = ({ key }) =&gt; {
@@ -1855,7 +1846,7 @@ const App = () =&gt; {
 
 ReactDOM.render(&lt;App /&gt;, document.getElementById(&quot;root&quot;));
 
-```
+````
 
 <hr />
 <p>Renders a checkbox list that uses a callback function to pass its selected value/values to the parent component.</p>
@@ -2001,7 +1992,7 @@ ReactDOM.render(&lt;PasswordRevealer /&gt;, document.getElementById(&quot;root&q
 
 </div>
 
-```js
+````js
 
 const RippleButton = ({ children, onClick }) =&gt; {
   const [coords, setCoords] = React.useState({ x: -1, y: -1 });
@@ -2052,7 +2043,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;select&gt;</code> element that uses a callback function to pass its value to the parent component.</p>
@@ -2162,7 +2153,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Star = ({ marked, starId }) =&gt; {
   return (
@@ -2207,7 +2198,7 @@ marked={selection ? selection &gt;= i + 1 : rating &gt;= i + 1}
 
 ReactDOM.render(&lt;StarRating value={2} /&gt;, document.getElementById(&quot;root&quot;));
 
-```
+````
 
 <hr />
 <p>Renders a tabbed menu and view component.</p>
@@ -2244,7 +2235,7 @@ ReactDOM.render(&lt;StarRating value={2} /&gt;, document.getElementById(&quot;ro
 
 </div>
 
-```js
+````js
 
 const TabItem = (props) =&gt; &lt;div {...props} /&gt;;
 
@@ -2298,7 +2289,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a tag input field.</p>
@@ -2373,7 +2364,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const TagInput = ({ tags }) =&gt; {
   const [tagData, setTagData] = React.useState(tags);
@@ -2419,7 +2410,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;textarea&gt;</code> element that uses a callback function to pass its value to the parent component.</p>
@@ -2484,7 +2475,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const Toggle = ({ defaultToggled = false }) =&gt; {
   const [isToggleOn, setIsToggleOn] = React.useState(defaultToggled);
@@ -2507,7 +2498,7 @@ onChange={() =&gt; setIsToggleOn(!isToggleOn)}
 
 ReactDOM.render(&lt;Toggle /&gt;, document.getElementById(&quot;root&quot;));
 
-```
+````
 
 <hr />
 <p>Renders a tooltip component.</p>
@@ -2545,7 +2536,7 @@ ReactDOM.render(&lt;Toggle /&gt;, document.getElementById(&quot;root&quot;));
 
 </div>
 
-```js
+````js
 
 const Tooltip = ({ children, text, ...rest }) =&gt; {
   const [show, setShow] = React.useState(false);
@@ -2578,7 +2569,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders a tree view of a JSON object or array with collapsible content.</p>
@@ -2633,7 +2624,7 @@ ReactDOM.render(
 
 </div>
 
-```js
+````js
 
 const TreeView = ({
   data,
@@ -2715,7 +2706,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-```
+````
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;input&gt;</code> element that uses a callback function to inform its parent about value updates.</p>
@@ -3640,6 +3631,5 @@ ReactDOM.render(&lt;App /&gt;, document.getElementById(&quot;root&quot;));
 ```
 
 <hr />
-
 
 </details>

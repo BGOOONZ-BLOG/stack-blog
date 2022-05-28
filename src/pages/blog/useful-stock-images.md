@@ -9,26 +9,22 @@ thumb_image: images/blog/code.png
 image_position: right
 author: src/data/authors/bgoonz.yaml
 categories:
-  - src/data/categories/git.yaml
+    - src/data/categories/git.yaml
 tags:
-  - src/data/tags/links.yaml
+    - src/data/tags/links.yaml
 show_author_bio: true
 cmseditable: true
 ---
 
 # Photography
 
-![bassist](/blog/bassist.gif "bassist gif")
+![bassist](/blog/bassist.gif 'bassist gif')
 
+![code](/blog/code.png 'code')
 
+![tsunami](/blog/woodcuts_1.jpg 'tsunami')
 
-![code](/blog/code.png "code")
-
-
-
-![tsunami](/blog/woodcuts_1.jpg "tsunami")
-
-![analytics](/blog/analytics.jpg "analytics")
+![analytics](/blog/analytics.jpg 'analytics')
 
 ![](/blog/gradients_3.png)
 
@@ -38,6 +34,4 @@ cmseditable: true
 
 ![](/blog/nasa_earth_grid.jpg)
 
-![earth](/blog/nasa_the_blue_marble-1-.jpg "earth")
-
-
+![earth](/blog/nasa_the_blue_marble-1-.jpg 'earth')

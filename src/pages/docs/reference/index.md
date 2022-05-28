@@ -10,7 +10,6 @@ seo:
 template: docs
 ---
 
-
 # Reference:
 
 -   [SITEMAP🗺🟈]\(https://enthusiastic-spinach-93724.stackbit.app/docs/sitemap/)

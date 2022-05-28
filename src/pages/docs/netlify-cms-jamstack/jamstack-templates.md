@@ -3,9 +3,11 @@ title: Jamstack
 template: docs
 excerpt: A collection of project starter templates for a variety of static site generators with one-click deployments to Netlify.
 ---
+
 # Jamstack Project Templates
 
 > ## Excerpt
+>
 > A collection of project starter templates for a variety of static site generators with one-click deployments to Netlify.
 
 ---

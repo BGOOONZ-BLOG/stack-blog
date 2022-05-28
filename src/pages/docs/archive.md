@@ -11,10 +11,6 @@ seo:
 template: docs
 ---
 
-
-
-
-
 <br>
 <br>
 <br>
@@ -37,7 +33,6 @@ template: docs
 <br>
 <h1> Google Drive</h1>
 <iframe src="https://drive.google.com/embeddedfolderview?id=1DHyQsPLziqSUODclplhnNX1eknzbZrL8#list" style="width:100%; height:600px; border:0;"></iframe>
-
 
 <br>
 <br>
@@ -128,8 +123,6 @@ template: docs
 <br>
 <br>
 
-
-
 <h1>   Speach Recognition api </h1>
 <br>
 <br>
@@ -146,9 +139,6 @@ template: docs
 <br>
 <br>
 
-
-
-
 <h1>  The Algos Bgoonz Branch </h1>
 <br>
 <br>
@@ -164,9 +154,6 @@ template: docs
 
 <br>
 <br>
-
-
-
 
 <br>
 <br>

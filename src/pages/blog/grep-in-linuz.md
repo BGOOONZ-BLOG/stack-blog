@@ -9,9 +9,9 @@ thumb_image: https://1.bp.blogspot.com/-Bd6UkevpE9o/X5GNNIc9iwI/AAAAAAAAj6k/ciCE
 image_position: left
 author: src/data/authors/bgoonz.yaml
 categories:
-  - src/data/categories/tools.yaml
+    - src/data/categories/tools.yaml
 tags:
-  - src/data/tags/linux.yaml
+    - src/data/tags/linux.yaml
 show_author_bio: true
 cmseditable: true
 ---

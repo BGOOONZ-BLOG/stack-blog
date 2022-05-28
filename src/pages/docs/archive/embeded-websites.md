@@ -211,22 +211,17 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
 
-
 <br>
-
-
 
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -238,12 +233,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>

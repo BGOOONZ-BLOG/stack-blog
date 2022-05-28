@@ -3,7 +3,7 @@ title: Git Bash
 subtitle: understanding git bash
 date: '2021-09-02'
 thumb_image_alt: image of
-excerpt: 
+excerpt:
 seo:
     title: 'Git Bash'
     description: 'understanding git bash'
@@ -18,8 +18,6 @@ Understanding [hoisting](https://developer.mozilla.org/en-US/docs/Web/JavaScript
 ---
 
 ```js
-
-
 function doTheThing() {
     // ReferenceError: notDeclared is not defined
     console.log(notDeclared);

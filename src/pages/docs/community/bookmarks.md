@@ -11,25 +11,24 @@ seo:
 template: docs
 ---
 
-
 # Bookmarks
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
-- [Bookmarks](#bookmarks)
-    - [NORWEX](#norwex)
-    - [RESOURCES](#resources)
-    - [a/A](#aa)
-    - [netlify](#netlify)
-    - [PYTHON](#python)
-    - [React-Redux](#react-redux)
-    - [AMAZON](#amazon)
-    - [GITHUB](#github)
-    - [MISC](#misc)
-    - [AMAZINGGGG](#amazingggg)
-    - [free-stuff](#free-stuff)
+-   [Bookmarks](#bookmarks)
+    -   [NORWEX](#norwex)
+    -   [RESOURCES](#resources)
+    -   [a/A](#aa)
+    -   [netlify](#netlify)
+    -   [PYTHON](#python)
+    -   [React-Redux](#react-redux)
+    -   [AMAZON](#amazon)
+    -   [GITHUB](#github)
+    -   [MISC](#misc)
+    -   [AMAZINGGGG](#amazingggg)
+    -   [free-stuff](#free-stuff)
 
 <!-- /code_chunk_output -->
 
@@ -328,12 +327,9 @@ template: docs
 
 ---
 
-
-
 <details>
 
-<summary> NORWEX </summary>   
-
+<summary> NORWEX </summary>
 
 <br>
 
@@ -455,25 +451,17 @@ template: docs
 -   [✅] [_**Abu Sayed -- Best Web, Game, XR \| Developer \| Engineer \|BANGLADESH**_](https://sayed.cyou/#resume)
     <br>
 
-
-
-
-
 </details>
 
 ---
 
 <br>
 
-
-
-
-
 <details>
 
-<summary>RESOURCES  </summary>   
+<summary>RESOURCES  </summary>
 
-### RESOURCES 
+### RESOURCES
 
 -   [✅] [_**JavaScript Guide**_](http://javascriptguide.herokuapp.com/)
 -   [✅] [_**App Academy Open**_](https://open.appacademy.io/login)
@@ -696,8 +684,6 @@ template: docs
 -   [✅] [_**Error -- Dataflow -- My Project 78672 -- Google CloudPlatform**_](https://console.cloud.google.com/navigation-error;errorUrl=%2Fdataflow%2Fcreatejob%3Ftemplate%3DGCS_Text_to_Cloud_PubSub&jobName%3Dweb-serve&inputFilePattern%3Dgs:%252F%252Fweb-serve%252F*&confirmMsg%3Dtrue&project%3Dstudious-pulsar-298821?project=studious-pulsar-298821)
 -   [✅] [_**gs://potluck - GoogleSearch**_](https://www.google.com/search?q=gs%3A%2F%2Fpotluck&oq=gs%3A%2F%2Fpotluck&aqs=chrome..69i57j69i58.604j0j7&sourceid=chrome&ie=UTF-8)
     <br>
-
-
 
 </details>
 

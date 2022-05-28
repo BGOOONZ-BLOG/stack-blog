@@ -36,10 +36,7 @@ Flags are not positional, so these commands are equivalent:
 -   `npm init gatsby -y -ts my-site-name`
 -   `npm init gatsby my-site-name -y -ts`
 
-
-
-Create a Gatsby site
---------------------
+## Create a Gatsby site
 
 To create your first Gatsby site, you're going to use a command from the Gatsby command line interface (CLI): `gatsby new`. This command brings up an interactive prompt that asks you questions about the site you want to build. After you enter all the information, the CLI uses your answers to automatically generate your new Gatsby site.
 
@@ -57,7 +54,7 @@ Need to update? Run the command below to get the latest version of the Gatsby CL
 
 Copycopy code to clipboard`
 
-npm  install -g gatsby-cli
+npm install -g gatsby-cli
 
 `
 
@@ -111,7 +108,7 @@ Will you be using JavaScript or TypeScript?
 
 ❯ JavaScript
 
- TypeScript
+TypeScript
 
 `
 
@@ -123,7 +120,7 @@ Copycopy code to clipboard`
 
 ✔ Will you be using a CMS?
 
-- No (or I'll add it later)
+-   No (or I'll add it later)
 
 `
 
@@ -137,7 +134,7 @@ Copycopy code to clipboard`
 
 ✔ Would you like to install a styling system?
 
-- No (or I'll add it later)
+-   No (or I'll add it later)
 
 `
 
@@ -147,7 +144,7 @@ Copycopy code to clipboard`
 
 ✔ Would you like to install additional features with other plugins?
 
-- Done
+-   Done
 
 `
 
@@ -157,7 +154,7 @@ Copycopy code to clipboard`
 
 Thanks! Here's what we'll now do:
 
- 🛠  Create a new Gatsby site in the folder my-first-gatsby-site
+🛠 Create a new Gatsby site in the folder my-first-gatsby-site
 
 ? Shall we do this? (Y/n) › Yes
 
@@ -167,28 +164,27 @@ Thanks! Here's what we'll now do:
 
 Copycopy code to clipboard`
 
-🎉  Your new Gatsby site My First Gatsby Site has been successfully
+🎉 Your new Gatsby site My First Gatsby Site has been successfully
 
 created at ~/Desktop/my-first-gatsby-site.
 
 Start by going to the directory with
 
-  cd my-first-gatsby-site
+cd my-first-gatsby-site
 
 Start the local development server with
 
-  npm run develop
+npm run develop
 
 See all commands at
 
- https://www.gatsbyjs.com/docs/gatsby-cli/
+https://www.gatsbyjs.com/docs/gatsby-cli/
 
 `
 
 Congratulations, you're now the owner of a brand-new Gatsby site!
 
-[](https://www.gatsbyjs.com/docs/tutorial/part-1/#run-your-site-locally)Run your site locally
----------------------------------------------------------------------------------------------
+## [](https://www.gatsbyjs.com/docs/tutorial/part-1/#run-your-site-locally)Run your site locally
 
 So far, you've generated the code for your site, but what does it actually look like in a web browser like Firefox or Google Chrome? To find out, you'll first need to start up your site's local development server.
 
@@ -234,7 +230,7 @@ You can now view my-first-gatsby-site in the browser.
 
 ⠀
 
- http://localhost:8000/
+http://localhost:8000/
 
 ⠀
 
@@ -244,7 +240,7 @@ schema
 
 ⠀
 
- http://localhost:8000/___graphql
+http://localhost:8000/\_\_\_graphql
 
 `
 
@@ -258,8 +254,7 @@ You'll be able to visit the site locally at `http://localhost:8000/` for as long
 
 **Note:** If you are using VM setup like vagrant and/or would like to listen on your local IP address, run `gatsby develop --host=0.0.0.0`. Now, the development server listens on both `http://localhost` and your local IP.
 
-[](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)Set up a GitHub repo for your site
------------------------------------------------------------------------------------------------------------------------
+## [](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)Set up a GitHub repo for your site
 
 GitHub is a website that many developers use to back up and share their code online. By uploading your code to GitHub, you'll be able to work on the same codebase from multiple computers. You'll also be able to use Gatsby Cloud to build and host your site.
 
@@ -291,8 +286,7 @@ For instructions on how to set up a personal access token, follow GitHub's guide
 
 Now you have a copy of your code saved on GitHub's servers. In the next step, you'll connect your Gatsby Cloud account to the GitHub repo you just created.
 
-[](https://www.gatsbyjs.com/docs/tutorial/part-1/#build-your-site-with-gatsby-cloud)Build your site with Gatsby Cloud
----------------------------------------------------------------------------------------------------------------------
+## [](https://www.gatsbyjs.com/docs/tutorial/part-1/#build-your-site-with-gatsby-cloud)Build your site with Gatsby Cloud
 
 Gatsby Cloud is an infrastructure platform that is specifically optimized for building, deploying, and hosting Gatsby sites. Once you connect your Gatsby Cloud account to your GitHub repository, Gatsby Cloud will build your site and make it available for others on the internet to see.
 
@@ -300,7 +294,7 @@ To connect your code on GitHub to your Gatsby Cloud account, do the following:
 
 1.  Go to your [Gatsby Cloud Dashboard](https://www.gatsbyjs.com/dashboard/). Click on the **"Add a site"** button.
 
-    [![An empty Gatsby Cloud dashboard](https://www.gatsbyjs.com/static/9c130998b561f1770834309715c99d5b/321ea/01-create-a-site-button.png "An empty Gatsby Cloud dashboard")](https://www.gatsbyjs.com/static/9c130998b561f1770834309715c99d5b/2b36a/01-create-a-site-button.png)
+    [![An empty Gatsby Cloud dashboard](https://www.gatsbyjs.com/static/9c130998b561f1770834309715c99d5b/321ea/01-create-a-site-button.png 'An empty Gatsby Cloud dashboard')](https://www.gatsbyjs.com/static/9c130998b561f1770834309715c99d5b/2b36a/01-create-a-site-button.png)
 
 2.  The next few steps will help you add your site to Gatsby Cloud. First, in the **"Import from a Git repository"** card click the **"GitHub"** icon to select GitHub as your Git provider.
 
@@ -328,7 +322,7 @@ To connect your code on GitHub to your Gatsby Cloud account, do the following:
 
 8.  Now that your site has been created, you'll be taken to a site dashboard where you can see the status of your builds. Gatsby Cloud should start building your site automatically. You'll see a link to your new site, which is automatically hosted on Gatsby Cloud. You can share this link with anyone, and they'll be able to see your site online!
 
-    [![The Gatsby Cloud dashboard for a new site.](https://www.gatsbyjs.com/static/d82ecf06f74d4195697a9a4c9253049d/321ea/07-site-page.png "The Gatsby Cloud dashboard for a new site.")](https://www.gatsbyjs.com/static/d82ecf06f74d4195697a9a4c9253049d/65781/07-site-page.png)
+    [![The Gatsby Cloud dashboard for a new site.](https://www.gatsbyjs.com/static/d82ecf06f74d4195697a9a4c9253049d/321ea/07-site-page.png 'The Gatsby Cloud dashboard for a new site.')](https://www.gatsbyjs.com/static/d82ecf06f74d4195697a9a4c9253049d/65781/07-site-page.png)
 
 You did it! Your Gatsby site is now online! 👏
 
@@ -336,14 +330,13 @@ Every time you push a new change to the main branch of your GitHub repo, Gatsby 
 
 **Tip:** There will be a unique URL for each build (like `https://build-49535320-b3ae-4761-bbeb-f8f7fa07e0fc.gtsb.io/`), and a URL that always has the latest build (like `my-first-gatsby-site-main.gatsbyjs.io`). You'll mostly want to share the human-readable URL, so that people can always see the most up-to-date version of your site. But in some cases (like when you're trying to debug a specific build of your site) it can be helpful to use the unique build URL.
 
-[](https://www.gatsbyjs.com/docs/tutorial/part-1/#summary)Summary
------------------------------------------------------------------
+## [](https://www.gatsbyjs.com/docs/tutorial/part-1/#summary)Summary
 
 In this section, you learned how to create a new Gatsby site and deploy it online using Gatsby Cloud. As a quick review, here's the diagram outlining the process:
 
-[![The workflow for how your code gets from your computer to your users. Extended description below.](https://www.gatsbyjs.com/static/0fd27b745c1de708f034eaf97c4416e0/321ea/deployment-workflow.png "The workflow for how your code gets from your computer to your users. Extended description below.")](https://www.gatsbyjs.com/static/0fd27b745c1de708f034eaf97c4416e0/d61c2/deployment-workflow.png)
+[![The workflow for how your code gets from your computer to your users. Extended description below.](https://www.gatsbyjs.com/static/0fd27b745c1de708f034eaf97c4416e0/321ea/deployment-workflow.png 'The workflow for how your code gets from your computer to your users. Extended description below.')](https://www.gatsbyjs.com/static/0fd27b745c1de708f034eaf97c4416e0/d61c2/deployment-workflow.png)
 
-*Expand for detailed description*
+_Expand for detailed description_
 
 ### [](https://www.gatsbyjs.com/docs/tutorial/part-1/#key-takeaways)Key takeaways
 

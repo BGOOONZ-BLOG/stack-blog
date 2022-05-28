@@ -35,10 +35,6 @@ seo:
 template: docs
 ---
 
-
-
-
-
 <h1>   Speach Recognition api </h1>
 <br>
 <iframe sandbox="allow-scripts" style="resize:both; overflow:scroll;"     style="z-index:-1!important; overflow:scroll;resize:both;"  src="https://random-static-html-deploys.netlify.app/" height="800px" width="1000px" scrolling="yes"   frameborder="yes" loading="lazy"  allowfullscreen="true"  frameborder="0" ></iframe>
@@ -48,13 +44,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
-
 
 <br>
 <br>
@@ -95,12 +88,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -114,12 +105,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -134,12 +123,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -159,12 +146,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -177,12 +162,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -196,12 +179,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -215,12 +196,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -234,12 +213,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -253,12 +230,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 
@@ -270,12 +245,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -303,12 +276,10 @@ template: docs
 <br>
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>

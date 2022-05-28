@@ -1,24 +1,25 @@
 ---
 title: Adding CSS to your Html
 template: post
-subtitle: "Html &Css for beginners "
+subtitle: 'Html &Css for beginners '
 excerpt: Add css to your html
 date: 2022-04-10T11:11:00.257Z
 image: https://cdn-images-1.medium.com/max/800/1*3hnCIyXstRSHgYO5-z-51g.png
-thumb_image: ""
+thumb_image: ''
 image_position: right
 author: src/data/authors/bgoonz.yaml
 categories:
-  - src/data/categories/html.yaml
-  - src/data/categories/css.yaml
+    - src/data/categories/html.yaml
+    - src/data/categories/css.yaml
 tags:
-  - src/data/tags/html.yaml
+    - src/data/tags/html.yaml
 show_author_bio: true
 related_posts:
-  - src/pages/blog/adding-css-to-your-html.md
-  - src/pages/blog/using-the-dom.md
+    - src/pages/blog/adding-css-to-your-html.md
+    - src/pages/blog/using-the-dom.md
 cmseditable: true
 ---
+
 # Adding CSS To Your HTML
 
 For beginners … very picture heavy since CSS is such a visual discipline!

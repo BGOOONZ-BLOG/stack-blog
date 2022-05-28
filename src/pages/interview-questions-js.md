@@ -6084,7 +6084,6 @@ Cons
              default:
                  return 'unknown';
          }
-
      })(10);
      ```
 
@@ -6124,7 +6123,7 @@ Cons
 
 #### 1. What is the output of below code
 
-```javascript
+````javascript
 var car = new Vehicle('Honda', 'white', '2010', 'UK');
 console.log(car);
 
@@ -6164,12 +6163,12 @@ function foo() {
 }
 
 c ole.log(foo(), typeof x, typeof y);
-```
+````
 
--  1, undefined and undefined
-- 2: ReferenceError: X is not defined
-- 3: 1, undefined and number
-- 4: 1, number and number
+-   1, undefined and undefined
+-   2: ReferenceError: X is not defined
+-   3: 1, undefined and number
+-   4: 1, number and number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6201,13 +6200,13 @@ function main() {
     }, 0);
     console.log('C');
 }
-m ();
+m();
 ```
 
--  A, B and C
-- 2: B, A and C
-- 3: A and C
-- 4: A, C and B
+-   A, B and C
+-   2: B, A and C
+-   3: A and C
+-   4: A, C and B
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6236,8 +6235,8 @@ The statements order is based on the event loop mechanism. The order of statemen
 c ole.log(0.1 + 0.2 === 0.3);
 ```
 
-- 1: false
-- 2: true
+-   1: false
+-   2: true
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6262,10 +6261,10 @@ if (function f() {}) {
 c ole.log(y);
 ```
 
--  1function
-- 2: 1object
-- 3: ReferenceError
-- 4: 1undefined
+-   1function
+-   2: 1object
+-   3: ReferenceError
+-   4: 1undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6306,10 +6305,10 @@ function foo() {
 c ole.log(foo());
 ```
 
--  Hello World
-- 2: Object {message: "Hello World"}
-- 3: Undefined
-- 4: SyntaxError
+-   Hello World
+-   2: Object {message: "Hello World"}
+-   3: Undefined
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6344,10 +6343,10 @@ console.log(myChars[0]);
 c ole.log(myChars.length);
 ```
 
--  [empty, 'b', 'c', 'd'], empty, 3
-- 2: [null, 'b', 'c', 'd'], empty, 3
-- 3: [empty, 'b', 'c', 'd'], undefined, 4
-- 4: [null, 'b', 'c', 'd'], undefined, 4
+-   [empty, 'b', 'c', 'd'], empty, 3
+-   2: [null, 'b', 'c', 'd'], empty, 3
+-   3: [empty, 'b', 'c', 'd'], undefined, 4
+-   4: [null, 'b', 'c', 'd'], undefined, 4
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6376,10 +6375,10 @@ var array3 = [, , ,];
 c ole.log(array3);
 ```
 
--  [undefined × 3], [undefined × 2, 100], [undefined × 3]
-- 2: [empty × 3], [empty × 2, 100], [empty × 3]
-- 3: [null × 3], [null × 2, 100], [null × 3]
-- 4: [], [100], []
+-   [undefined × 3], [undefined × 2, 100], [undefined × 3]
+-   2: [empty × 3], [empty × 2, 100], [empty × 3]
+-   3: [null × 3], [null × 2, 100], [null × 3]
+-   4: [], [100], []
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6414,10 +6413,10 @@ console.log(obj.prop2());
 c ole.log(obj.prop3());
 ```
 
--  0, 1, 2
-- 2: 0, { return 1 }, 2
-- 3: 0, { return 1 }, { return 2 }
-- 4: 0, 1, undefined
+-   0, 1, 2
+-   2: 0, { return 1 }, 2
+-   3: 0, { return 1 }, { return 2 }
+-   4: 0, 1, undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6438,10 +6437,10 @@ console.log(1 < 2 < 3);
 c ole.log(3 > 2 > 1);
 ```
 
--  true, true
-- 2: true, false
-- 3: SyntaxError, SyntaxError,
-- 4: false, false
+-   true, true
+-   2: true, false
+-   3: SyntaxError, SyntaxError,
+-   4: false, false
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6477,10 +6476,10 @@ function printNumbers(first, second, first) {
 p tNumbers(1, 2, 3);
 ```
 
--  1, 2, 3
-- 2: 3, 2, 3
-- 3: SyntaxError: Duplicate parameter name not allowed in this context
-- 4: 1, 2, 1
+-   1, 2, 3
+-   2: 3, 2, 3
+-   3: SyntaxError: Duplicate parameter name not allowed in this context
+-   4: 1, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6506,10 +6505,10 @@ const printNumbersArrow = (first, second, first) => {
 p tNumbersArrow(1, 2, 3);
 ```
 
--  1, 2, 3
-- 2: 3, 2, 3
-- 3: SyntaxError: Duplicate parameter name not allowed in this context
-- 4: 1, 2, 1
+-   1, 2, 3
+-   2: 3, 2, 3
+-   3: SyntaxError: Duplicate parameter name not allowed in this context
+-   4: 1, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6530,10 +6529,10 @@ const arrowFunc = () => arguments.length;
 c ole.log(arrowFunc(1, 2, 3));
 ```
 
--  ReferenceError: arguments is not defined
-- 2: 3
-- 3: undefined
-- 4: null
+-   ReferenceError: arguments is not defined
+-   2: 3
+-   3: undefined
+-   4: null
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6570,8 +6569,8 @@ console.log(String.prototype.trimLeft.name === 'trimLeft');
 c ole.log(String.prototype.trimLeft.name === 'trimStart');
 ```
 
-- 1: True, False
-- 2: False, True
+-   1: True, False
+-   2: False, True
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6591,10 +6590,10 @@ In order to be consistent with functions like `String.prototype.padStart`, the s
 c ole.log(Math.max());
 ```
 
--  undefined
-- 2: Infinity
-- 3: 0
-- 4: -Infinity
+-   undefined
+-   2: Infinity
+-   3: 0
+-   4: -Infinity
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6616,10 +6615,10 @@ console.log(10 == [10]);
 c ole.log(10 == [[[[[[[10]]]]]]]);
 ```
 
--  True, True
-- 2: True, False
-- 3: False, False
-- 4: False, True
+-   True, True
+-   2: True, False
+-   3: False, False
+-   4: False, True
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6646,10 +6645,10 @@ console.log(10 + '10');
 c ole.log(10 - '10');
 ```
 
--  20, 0
-- 2: 1010, 0
-- 3: 1010, 10-10
-- 4: NaN, NaN
+-   20, 0
+-   2: 1010, 0
+-   3: 1010, 10-10
+-   4: NaN, NaN
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6665,7 +6664,7 @@ The concatenation operator(+) is applicable for both number and string types. So
 
 #### 18. What is the output of below code
 
-```javascript
+````javascript
 console.log([0] == false);
 if ([0]) {
     console.log("I'm True");
@@ -6693,12 +6692,12 @@ In comparison operators, the expression `[0]` converted to Number([0].valueOf().
 
 ```javascript
 c ole.log([1, 2] + [3, 4]);
-```
+````
 
--  [1,2,3,4]
-- 2: [1,2][3,4]
-- 3: SyntaxError
-- 4: 1,23,4
+-   [1,2,3,4]
+-   2: [1,2][3,4]
+-   3: SyntaxError
+-   4: 1,23,4
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6722,10 +6721,10 @@ const browser = new Set('Firefox');
 c ole.log(browser);
 ```
 
--  {1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
-- 2: {1, 2, 3, 4}, {"F", "i", "r", "e", "o", "x"}
-- 3: [1, 2, 3, 4], ["F", "i", "r", "e", "o", "x"]
-- 4: {1, 1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
+-   {1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
+-   2: {1, 2, 3, 4}, {"F", "i", "r", "e", "o", "x"}
+-   3: [1, 2, 3, 4], ["F", "i", "r", "e", "o", "x"]
+-   4: {1, 1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6745,8 +6744,8 @@ Since `Set` object is a collection of unique values, it won't allow duplicate va
 c ole.log(NaN === NaN);
 ```
 
-- 1: True
-- 2: False
+-   1: True
+-   2: False
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6767,10 +6766,10 @@ let numbers = [1, 2, 3, 4, NaN];
 c ole.log(numbers.indexOf(NaN));
 ```
 
--  4
-- 2: NaN
-- 3: SyntaxError
-- 4: -1
+-   4
+-   2: NaN
+-   3: SyntaxError
+-   4: -1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6799,10 +6798,10 @@ let [a, ...b,] = [1, 2, 3, 4, 5];
 c ole.log(a, b);
 ```
 
--  1, [2, 3, 4, 5]
-- 2: 1, {2, 3, 4, 5}
-- 3: SyntaxError
-- 4: 1, [2, 3, 4]
+-   1, [2, 3, 4, 5]
+-   2: 1, {2, 3, 4, 5}
+-   3: SyntaxError
+-   4: 1, [2, 3, 4]
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6831,10 +6830,10 @@ async function func() {
 c ole.log(func());
 ```
 
--  Promise {\<fulfilled\>: 10}
-- 2: 10
-- 3: SyntaxError
-- 4: Promise {\<rejected\>: 10}
+-   Promise {\<fulfilled\>: 10}
+-   2: 10
+-   3: SyntaxError
+-   4: Promise {\<rejected\>: 10}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6863,10 +6862,10 @@ async function func() {
 c ole.log(func());
 ```
 
--  Promise {\<fulfilled\>: 10}
-- 2: 10
-- 3: SyntaxError
-- 4: Promise {\<resolved\>: undefined}
+-   Promise {\<fulfilled\>: 10}
+-   2: 10
+-   3: SyntaxError
+-   4: Promise {\<resolved\>: undefined}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6907,10 +6906,10 @@ async function processArray(array) {
 p essArray([1, 2, 3, 4]);
 ```
 
--  SyntaxError
-- 2: 1, 2, 3, 4
-- 3: 4, 4, 4, 4
-- 4: 4, 3, 2, 1
+-   SyntaxError
+-   2: 1, 2, 3, 4
+-   3: 4, 4, 4, 4
+-   4: 4, 3, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6946,10 +6945,10 @@ async function process(array) {
 p ess([1, 2, 3, 5]);
 ```
 
--  1 2 3 5 and Process completed!
-- 2: 5 5 5 5 and Process completed!
-- 3: Process completed! and 5 5 5 5
-- 4: Process completed! and 1 2 3 5
+-   1 2 3 5 and Process completed!
+-   2: 5 5 5 5 and Process completed!
+-   3: Process completed! and 5 5 5 5
+-   4: Process completed! and 1 2 3 5
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6982,10 +6981,10 @@ set.add('+0').add('-0').add(NaN).add(undefined).add(NaN);
 c ole.log(set);
 ```
 
--  Set(4) {"+0", "-0", NaN, undefined}
-- 2: Set(3) {"+0", NaN, undefined}
-- 3: Set(5) {"+0", "-0", NaN, undefined, NaN}
-- 4: Set(4) {"+0", NaN, undefined, NaN}
+-   Set(4) {"+0", "-0", NaN, undefined}
+-   2: Set(3) {"+0", NaN, undefined}
+-   3: Set(5) {"+0", "-0", NaN, undefined, NaN}
+-   4: Set(4) {"+0", NaN, undefined, NaN}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7014,10 +7013,10 @@ const sym4 = Symbol.for('two');
 c oe.log(sym1 === sym2, sym3 === sym4);
 ```
 
--  true, true
-- 2: true, false
-- 3: false, true
-- 4: false, false
+-   true, true
+-   2: true, false
+-   3: false, true
+-   4: false, false
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7044,10 +7043,10 @@ const sym1 = new Symbol('one');
 c ole.log(sym1);
 ```
 
--  SyntaxError
-- 2: one
-- 3: Symbol('one')
-- 4: Symbol
+-   SyntaxError
+-   2: one
+-   3: Symbol('one')
+-   4: Symbol
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7064,7 +7063,7 @@ c ole.log(sym1);
 
 #### 32. What is the output of below code
 
-```javascript
+````javascript
 let myNumber = 100;
 let myString = '100';
 
@@ -7104,12 +7103,12 @@ The return value of `typeof myNumber (OR) typeof myString` is always the truthy 
 ```javascript
 console.log(JSON.stringify({ myArray: ['one', undefined, function () {}, Symbol('')] }));
 c ole.log(JSON.stringify({ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]));
-```
+````
 
--  {"myArray":['one', undefined, {}, Symbol]}, {}
-- 2: {"myArray":['one', null,null,null]}, {}
-- 3: {"myArray":['one', null,null,null]}, "{ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]"
-- 4: {"myArray":['one', undefined, function(){}, Symbol('')]}, {}
+-   {"myArray":['one', undefined, {}, Symbol]}, {}
+-   2: {"myArray":['one', null,null,null]}, {}
+-   3: {"myArray":['one', null,null,null]}, "{ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]"
+-   4: {"myArray":['one', undefined, function(){}, Symbol('')]}, {}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7146,8 +7145,8 @@ new A();
 n B();
 ```
 
-- 1: A, A
-- 2: A, B
+-   1: A, A
+-   2: A, B
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7169,10 +7168,10 @@ const [x, ...y,] = [1, 2, 3, 4];
 c ole.log(x, y);
 ```
 
--  1, [2, 3, 4]
-- 2: 1, [2, 3]
-- 3: 1, [2]
-- 4: SyntaxError
+-   1, [2, 3, 4]
+-   2: 1, [2, 3]
+-   3: 1, [2]
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7196,10 +7195,10 @@ console.log(x);
 c ole.log(y);
 ```
 
--  30, 20
-- 2: 10, 20
-- 3: 10, undefined
-- 4: 30, undefined
+-   30, 20
+-   2: 10, 20
+-   3: 10, undefined
+-   4: 30, undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7224,13 +7223,13 @@ function area({ length = 10, width = 20 }) {
     console.log(length * width);
 }
 
-a ();
+a();
 ```
 
--  200
-- 2: Error
-- 3: undefined
-- 4: 0
+-   200
+-   2: Error
+-   3: undefined
+-   4: 0
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7280,10 +7279,10 @@ const [, , { name }] = props;
 c ole.log(name);
 ```
 
--  Tom
-- 2: Error
-- 3: undefined
-- 4: John
+-   Tom
+-   2: Error
+-   3: undefined
+-   4: John
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7311,10 +7310,10 @@ checkType('');
 c kType(null);
 ```
 
--  number, undefined, string, object
-- 2: undefined, undefined, string, object
-- 3: number, number, string, object
-- 4: number, number, number, number
+-   number, undefined, string, object
+-   2: undefined, undefined, string, object
+-   3: number, number, string, object
+-   4: number, number, number, number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7346,8 +7345,8 @@ console.log(add('Orange'));
 c ole.log(add('Apple'));
 ```
 
-- 1: ['Orange'], ['Orange', 'Apple']
-- 2: ['Orange'], ['Apple']
+-   1: ['Orange'], ['Orange', 'Apple']
+-   2: ['Orange'], ['Apple']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7373,8 +7372,8 @@ greet('Hello', 'John');
 g t('Hello', 'John', 'Good morning!');
 ```
 
-- 1: SyntaxError
-- 2: ['Hello', 'John', 'Hello John'], ['Hello', 'John', 'Good morning!']
+-   1: SyntaxError
+-   2: ['Hello', 'John', 'Hello John'], ['Hello', 'John', 'Good morning!']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7400,8 +7399,8 @@ function outer(f = inner()) {
 o r();
 ```
 
-- 1: ReferenceError
-- 2: Inner
+-   1: ReferenceError
+-   2: Inner
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7427,10 +7426,10 @@ myFun(1, 2, 3, 4, 5);
 m n(1, 2);
 ```
 
--  [3, 4, 5], undefined
-- 2: SyntaxError
-- 3: [3, 4, 5], []
-- 4: [3, 4, 5], [undefined]
+-   [3, 4, 5], undefined
+-   2: SyntaxError
+-   3: [3, 4, 5], []
+-   4: [3, 4, 5], [undefined]
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7453,10 +7452,10 @@ const array = [...obj];
 c ole.log(array);
 ```
 
--  ['key', 'value']
-- 2: TypeError
-- 3: []
-- 4: ['key']
+-   ['key', 'value']
+-   2: TypeError
+-   3: []
+-   4: ['key']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7483,10 +7482,10 @@ var myGenObj = new myGenFunc();
 c ole.log(myGenObj.next().value);
 ```
 
--  1
-- 2: undefined
-- 3: SyntaxError
-- 4: TypeError
+-   1
+-   2: undefined
+-   3: SyntaxError
+-   4: TypeError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7516,10 +7515,10 @@ console.log(myGenObj.next());
 c ole.log(myGenObj.next());
 ```
 
--  { value: 1, done: false }, { value: 2, done: true }, { value: undefined, done: true }
-- 2: { value: 1, done: false }, { value: 2, done: false }, { value: undefined, done: true }
-- 3: { value: 1, done: false }, { value: 2, done: true }, { value: 3, done: true }
-- 4: { value: 1, done: false }, { value: 2, done: false }, { value: 3, done: true }
+-   { value: 1, done: false }, { value: 2, done: true }, { value: undefined, done: true }
+-   2: { value: 1, done: false }, { value: 2, done: false }, { value: undefined, done: true }
+-   3: { value: 1, done: false }, { value: 2, done: true }, { value: 3, done: true }
+-   4: { value: 1, done: false }, { value: 2, done: false }, { value: 3, done: true }
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7536,7 +7535,7 @@ A return statement in a generator function will make the generator finish. If a 
 
 #### 47. What is the output of below code
 
-```javascript
+````javascript
 const myGenerator = (function* () {
     yield 1;
     yield 2;
@@ -7575,10 +7574,10 @@ The generator should not be re-used once the iterator is closed. i.e, Upon exiti
 ```javascript
 const num = 0o38;
 c ole.log(num);
-```
+````
 
-- 1: SyntaxError
-- 2: 38
+-   1: SyntaxError
+-   2: 38
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7595,7 +7594,7 @@ If you use an invalid number(outside of 0-7 range) in the octal literal, JavaScr
 
 #### 49. What is the output of below code
 
-```javascript
+````javascript
 const squareObj = new Square(10);
 console.log(squareObj.area);
 
@@ -7651,12 +7650,12 @@ console.log(walk());
 
 let run = Person.run;
 c ole.log(run());
-```
+````
 
--  undefined, undefined
-- 2: Person, Person
-- 3: SyntaxError
-- 4: Window, Window
+-   undefined, undefined
+-   2: Person, Person
+-   3: SyntaxError
+-   4: Window, Window
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7695,10 +7694,10 @@ const car = new Car('BMW');
 c ole.log(car.start());
 ```
 
--  SyntaxError
-- 2: BMW vehicle started, BMW car started
-- 3: BMW car started, BMW vehicle started
-- 4: BMW car started, BMW car started
+-   SyntaxError
+-   2: BMW vehicle started, BMW car started
+-   3: BMW car started, BMW vehicle started
+-   4: BMW car started, BMW car started
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7721,10 +7720,10 @@ USER.age = 25;
 c ole.log(USER.age);
 ```
 
--  30
-- 2: 25
-- 3: Uncaught TypeError
-- 4: SyntaxError
+-   30
+-   2: 25
+-   3: Uncaught TypeError
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7745,8 +7744,8 @@ Even though we used constant variables, the content of it is an object and the o
 c ole.log('🙂' === '🙂');
 ```
 
-- 1: false
-- 2: true
+-   1: false
+-   2: true
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7767,10 +7766,10 @@ Emojis are unicodes and the unicode for smile symbol is "U+1F642". The unicode c
 c ole.log(typeof typeof typeof true);
 ```
 
--  string
-- 2: boolean
-- 3: NaN
-- 4: number
+-   string
+-   2: boolean
+-   3: NaN
+-   4: number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7787,7 +7786,7 @@ The typeof operator on any primitive returns a string value. So even if you appl
 
 #### 55. What is the output of below code?
 
-```javascript
+````javascript
 let zero = new Number(0);
 
 if (zero) {
@@ -7826,12 +7825,12 @@ let msg = 'Good morning!!';
 msg.name = 'John';
 
 c ole.log(msg.name);
-```
+````
 
--  ""
-- 2: Error
-- 3: John
-- 4: Undefined
+-   ""
+-   2: Error
+-   3: John
+-   4: Undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7860,10 +7859,10 @@ let count = 10;
 } ;
 ```
 
--  11, 10
-- 2: 11, 11
-- 3: 10, 11
-- 4: 10, 10
+-   11, 10
+-   2: 11, 11
+-   3: 10, 11
+-   4: 10, 10
 
 <details><summary><b>Answer</b></summary>
 <p>

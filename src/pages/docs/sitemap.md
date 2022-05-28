@@ -30,7 +30,6 @@ seo:
 template: docs
 ---
 
-
 # [**➡️🏠🏠HOME🏠🏠⬅️**](https://enthusiastic-spinach-93724.stackbit.app/)
 
 <center>
@@ -62,29 +61,29 @@ template: docs
 ##### [**<ins>Blog Article List</ins>**](https://enthusiastic-spinach-93724.stackbit.app/blog)
 
 -   [📰blog📰](https://enthusiastic-spinach-93724.stackbit.app/blog/web-scraping)
-    - [📰300-react-questions](https://enthusiastic-spinach-93724.stackbit.app/blog/300-react-questions)
-- [📰adding-css-to-your-html](https://enthusiastic-spinach-93724.stackbit.app/blog/adding-css-to-your-html)
-- [📰awesome-graphql](https://enthusiastic-spinach-93724.stackbit.app/blog/awesome-graphql)
-- [📰big-o-complexity](https://enthusiastic-spinach-93724.stackbit.app/blog/big-o-complexity)
-- [📰blog-archive](https://enthusiastic-spinach-93724.stackbit.app/blog/blog-archive)
-- [📰data-structures](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures)
-- [📰data-structures-algorithms-resources](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures-algorithms-resources)
-- [📰expressjs-apis](https://enthusiastic-spinach-93724.stackbit.app/blog/expressjs-apis)
-- [📰flow-control-in-python](https://enthusiastic-spinach-93724.stackbit.app/blog/flow-control-in-python)
-- [📰functions-in-python](https://enthusiastic-spinach-93724.stackbit.app/blog/functions-in-python)
-- [📰git-gateway](https://enthusiastic-spinach-93724.stackbit.app/blog/git-gateway)
-- [📰hoisting](https://enthusiastic-spinach-93724.stackbit.app/blog/hoisting)
-- [📰interview-questions-js](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js)
-- [📰interview-questions-js-p2](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js-p2)
-- [📰interview-questions-js-p3](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js-p3)
-- [📰netlify-cms](https://enthusiastic-spinach-93724.stackbit.app/blog/netlify-cms)
-- [📰platform-docs](https://enthusiastic-spinach-93724.stackbit.app/blog/platform-docs)
-- [📰psql-cheat-sheet](https://enthusiastic-spinach-93724.stackbit.app/blog/psql-cheat-sheet)
-- [📰python-for-js-dev](https://enthusiastic-spinach-93724.stackbit.app/blog/python-for-js-dev)
-- [📰python-resources](https://enthusiastic-spinach-93724.stackbit.app/blog/python-resources)
-- [📰vs-code-extensions](https://enthusiastic-spinach-93724.stackbit.app/blog/vs-code-extensions)
-- [📰web-dev-trends](https://enthusiastic-spinach-93724.stackbit.app/blog/web-dev-trends)
-- [📰web-scraping](https://enthusiastic-spinach-93724.stackbit.app/blog/web-scraping)
+    -   [📰300-react-questions](https://enthusiastic-spinach-93724.stackbit.app/blog/300-react-questions)
+-   [📰adding-css-to-your-html](https://enthusiastic-spinach-93724.stackbit.app/blog/adding-css-to-your-html)
+-   [📰awesome-graphql](https://enthusiastic-spinach-93724.stackbit.app/blog/awesome-graphql)
+-   [📰big-o-complexity](https://enthusiastic-spinach-93724.stackbit.app/blog/big-o-complexity)
+-   [📰blog-archive](https://enthusiastic-spinach-93724.stackbit.app/blog/blog-archive)
+-   [📰data-structures](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures)
+-   [📰data-structures-algorithms-resources](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures-algorithms-resources)
+-   [📰expressjs-apis](https://enthusiastic-spinach-93724.stackbit.app/blog/expressjs-apis)
+-   [📰flow-control-in-python](https://enthusiastic-spinach-93724.stackbit.app/blog/flow-control-in-python)
+-   [📰functions-in-python](https://enthusiastic-spinach-93724.stackbit.app/blog/functions-in-python)
+-   [📰git-gateway](https://enthusiastic-spinach-93724.stackbit.app/blog/git-gateway)
+-   [📰hoisting](https://enthusiastic-spinach-93724.stackbit.app/blog/hoisting)
+-   [📰interview-questions-js](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js)
+-   [📰interview-questions-js-p2](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js-p2)
+-   [📰interview-questions-js-p3](https://enthusiastic-spinach-93724.stackbit.app/blog/interview-questions-js-p3)
+-   [📰netlify-cms](https://enthusiastic-spinach-93724.stackbit.app/blog/netlify-cms)
+-   [📰platform-docs](https://enthusiastic-spinach-93724.stackbit.app/blog/platform-docs)
+-   [📰psql-cheat-sheet](https://enthusiastic-spinach-93724.stackbit.app/blog/psql-cheat-sheet)
+-   [📰python-for-js-dev](https://enthusiastic-spinach-93724.stackbit.app/blog/python-for-js-dev)
+-   [📰python-resources](https://enthusiastic-spinach-93724.stackbit.app/blog/python-resources)
+-   [📰vs-code-extensions](https://enthusiastic-spinach-93724.stackbit.app/blog/vs-code-extensions)
+-   [📰web-dev-trends](https://enthusiastic-spinach-93724.stackbit.app/blog/web-dev-trends)
+-   [📰web-scraping](https://enthusiastic-spinach-93724.stackbit.app/blog/web-scraping)
 
 </details>
 

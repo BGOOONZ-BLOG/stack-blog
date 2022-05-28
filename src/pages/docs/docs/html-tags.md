@@ -10,7 +10,6 @@ seo:
 template: docs
 ---
 
-
 HTML Elements
 
 1. A
@@ -81,95 +80,4 @@ HTML Elements
 <br>
 <br>
 
-`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
-    6. [`<html>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
-8. I
-    1. [`<i>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
-    2. [`<iframe>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-    3. [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-    4. [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
-    5. [`<ins>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins)
-    6. ~~`<isindex>`~~
-9. J K
-    1. [`<kbd>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
-    2. [`<keygen>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/keygen)
-10. L
-    1. [`<label>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-    2. [`<legend>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend)
-    3. [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
-    4. [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
-    5. ~~`<listing>`~~
-11. M
-    1. [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
-    2. [`<map>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map)
-    3. [`<mark>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark)
-    4. ~~[`<marquee>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee)~~
-    5. [`<menu>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu)
-    6. [`<menuitem>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menuitem)
-    7. [`<meta>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
-    8. [`<meter>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter)
-12. N
-    1. [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
-    2. ~~[`<nobr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nobr)~~
-    3. ~~[`<noframes>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noframes)~~
-    4. [`<noscript>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
-13. O
-    1. [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object)
-    2. [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
-    3. [`<optgroup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup)
-    4. [`<option>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
-    5. [`<output>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output)
-14. P
-    1. [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-    2. [`<param>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param)
-    3. [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
-    4. ~~[`<plaintext>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/plaintext)~~
-    5. [`<pre>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre)
-    6. [`<progress>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
-15. Q
-    1. [`<q>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q)
-16. R
-    1. [`<rp>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rp)
-    2. [`<rt>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt)
-    3. [`<rtc>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rtc)
-    4. [`<ruby>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby)
-17. S
-    1. [`<s>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s)
-    2. [`<samp>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp)
-    3. [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
-    4. [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-    5. [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
-    6. [`<shadow>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/shadow)
-    7. [`<slot>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot)
-    8. [`<small>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small)
-    9. [`<source>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source)
-    10. ~~[`<spacer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/spacer)~~
-    11. [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-    12. ~~[`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)~~
-    13. [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)
-    14. [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
-    15. [`<sub>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub)
-    16. [`<summary>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
-    17. [`<sup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup)
-18. T
-    1. [`<table>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-    2. [`<tbody>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
-    3. [`<td>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
-    4. [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-    5. [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
-    6. [`<tfoot>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
-    7. [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
-    8. [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
-    9. [`<time>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
-    10. [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title)
-    11. [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
-    12. [`<track>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
-    13. ~~[`<tt>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tt)~~
-19. U
-    1. [`<u>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u)
-    2. [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
-20. V
-    1. [`<var>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/var)
-    2. [`<video>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-21. W
-    1. [`<wbr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)
+`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr) 6. [`<html>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html) 8. I 1. [`<i>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i) 2. [`<iframe>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) 3. [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) 4. [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) 5. [`<ins>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins) 6. ~~`<isindex>`~~ 9. J K 1. [`<kbd>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd) 2. [`<keygen>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/keygen) 10. L 1. [`<label>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label) 2. [`<legend>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend) 3. [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li) 4. [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link) 5. ~~`<listing>`~~ 11. M 1. [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main) 2. [`<map>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map) 3. [`<mark>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark) 4. ~~[`<marquee>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee)~~ 5. [`<menu>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menu) 6. [`<menuitem>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/menuitem) 7. [`<meta>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) 8. [`<meter>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter) 12. N 1. [`<nav>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav) 2. ~~[`<nobr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nobr)~~ 3. ~~[`<noframes>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noframes)~~ 4. [`<noscript>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript) 13. O 1. [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object) 2. [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) 3. [`<optgroup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup) 4. [`<option>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option) 5. [`<output>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output) 14. P 1. [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) 2. [`<param>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param) 3. [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture) 4. ~~[`<plaintext>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/plaintext)~~ 5. [`<pre>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre) 6. [`<progress>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress) 15. Q 1. [`<q>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q) 16. R 1. [`<rp>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rp) 2. [`<rt>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt) 3. [`<rtc>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rtc) 4. [`<ruby>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby) 17. S 1. [`<s>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/s) 2. [`<samp>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp) 3. [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script) 4. [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section) 5. [`<select>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) 6. [`<shadow>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/shadow) 7. [`<slot>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot) 8. [`<small>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small) 9. [`<source>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source) 10. ~~[`<spacer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/spacer)~~ 11. [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span) 12. ~~[`<strike>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strike)~~ 13. [`<strong>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) 14. [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) 15. [`<sub>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub) 16. [`<summary>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary) 17. [`<sup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sup) 18. T 1. [`<table>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table) 2. [`<tbody>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody) 3. [`<td>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td) 4. [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) 5. [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea) 6. [`<tfoot>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot) 7. [`<th>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th) 8. [`<thead>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead) 9. [`<time>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) 10. [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title) 11. [`<tr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr) 12. [`<track>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track) 13. ~~[`<tt>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tt)~~ 19. U 1. [`<u>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u) 2. [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) 20. V 1. [`<var>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/var) 2. [`<video>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) 21. W 1. [`<wbr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)

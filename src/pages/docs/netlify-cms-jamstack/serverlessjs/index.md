@@ -18,7 +18,7 @@ Serverless JavaScript is JavaScript code that comprises all or part of an applic
 
 [Serverless](https://www.cloudflare.com/learning/serverless/what-is-serverless/) JavaScript is hosted in an edge network or by an HTTP caching service, which stores content to respond quickly to HTTP requests. Developers can write and deploy JavaScript functions that process HTTP requests before they travel all the way to the [origin server](https://www.cloudflare.com/learning/cdn/glossary/origin-server/).
 
-![Serverless JavaScript on Edge Server](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/serverless-javascript-running-on-edge-server.svg "Serverless JavaScript on Edge Server")
+![Serverless JavaScript on Edge Server](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/serverless-javascript-running-on-edge-server.svg 'Serverless JavaScript on Edge Server')
 
 Using serverless JavaScript, it is possible to expand the functionality and improve the user experience of existing applications by running code at the edge, or to create a new, fully serverless application that is fast and highly scalable. [Cloudflare Workers](https://www.cloudflare.com/products/cloudflare-workers/) is a serverless JavaScript platform.
 
@@ -56,11 +56,11 @@ Service workers are scripts that browsers download and run in order to create cu
 
 ## Two ways service workers can handle HTTP traffic:
 
-![Service Worker Responds](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/service-worker-responds-http-request.svg "Service Worker Responds")
+![Service Worker Responds](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/service-worker-responds-http-request.svg 'Service Worker Responds')
 
 Service workers can respond to HTTP requests without contacting the web server
 
-![Service Worker Modifies Request](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/service-worker-modifies-http-request-response.svg "Service Worker Modifies Request")
+![Service Worker Modifies Request](https://www.cloudflare.com/img/learning/serverless/serverless-javascript/service-worker-modifies-http-request-response.svg 'Service Worker Modifies Request')
 
 Service workers can modify HTTP requests and responses
 

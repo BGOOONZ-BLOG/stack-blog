@@ -25,7 +25,6 @@ seo:
 template: docs
 ---
 
-
 <iframe sandbox="allow-scripts" style="resize:both; overflow:scroll;"    src="https://random-static-html-deploys.netlify.app/my-websites/" height="800px" width="1000px" scrolling="yes"   frameborder="yes" loading="lazy"  allowfullscreen="true"  frameborder="0" ></iframe>
 
 <h1> Links </h1>
@@ -35,12 +34,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -52,12 +49,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -69,12 +64,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -82,12 +75,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -99,12 +90,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -112,12 +101,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -129,12 +116,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -142,12 +127,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -159,12 +142,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -172,12 +153,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -189,12 +168,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -202,12 +179,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -218,12 +193,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -231,12 +204,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -248,12 +219,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -261,12 +230,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -278,12 +245,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -291,12 +256,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -308,12 +271,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -321,12 +282,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -338,12 +297,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -351,12 +308,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -368,12 +323,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -381,12 +334,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -398,12 +349,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -411,12 +360,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -428,12 +375,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -441,12 +386,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -458,12 +401,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -471,12 +412,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -488,12 +427,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -501,12 +438,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -518,12 +453,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -531,12 +464,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -548,12 +479,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -561,12 +490,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -578,12 +505,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -591,12 +516,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -608,12 +531,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -621,12 +542,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -638,12 +557,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -651,12 +568,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -668,12 +583,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -681,12 +594,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -698,12 +609,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -711,12 +620,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -728,12 +635,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -741,12 +646,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -758,12 +661,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -771,12 +672,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -788,12 +687,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -801,12 +698,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -818,12 +713,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -831,12 +724,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -848,12 +739,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -861,12 +750,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -878,12 +765,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -891,12 +776,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -908,12 +791,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -921,12 +802,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -938,12 +817,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -951,12 +828,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -968,12 +843,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -981,12 +854,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -998,12 +869,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1011,12 +880,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1028,12 +895,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1041,12 +906,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1058,12 +921,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1071,12 +932,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1087,12 +946,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1104,12 +961,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1121,12 +976,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1134,12 +987,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1151,12 +1002,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1164,12 +1013,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1181,12 +1028,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1194,12 +1039,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1211,12 +1054,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1224,12 +1065,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1241,12 +1080,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1254,12 +1091,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1271,12 +1106,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1284,12 +1117,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1301,12 +1132,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1314,12 +1143,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1331,12 +1158,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1344,12 +1169,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1361,12 +1184,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1374,12 +1195,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1391,12 +1210,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>
@@ -1404,12 +1221,10 @@ template: docs
  <br>
  <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
  <br>
  <br>

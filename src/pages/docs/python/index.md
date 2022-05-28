@@ -11,7 +11,6 @@ seo:
 template: docs
 ---
 
-
 <br>
 <h1>  Python Resources</h1>
 <br>
@@ -20,12 +19,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 

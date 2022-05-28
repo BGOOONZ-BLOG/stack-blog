@@ -32,7 +32,7 @@ To initialize a git repository in the root of the folder, run the [git init](htt
 
 Go ahead and add a new file to the project, using any text editor you like or running a [touch](http://linux.die.net/man/1/touch) command. \`touch newfile.txt\` just creates and saves a blank file named newfile.txt.
 
-Once you've added or modified files in a folder containing a git repo, git will notice that  the file exists inside the repo. But, git won't track the file unless you explicitly tell it to. Git only saves/manages changes to files that it *tracks*, so we’ll need to send a command to confirm that yes, we want git to track our new file.
+Once you've added or modified files in a folder containing a git repo, git will notice that the file exists inside the repo. But, git won't track the file unless you explicitly tell it to. Git only saves/manages changes to files that it _tracks_, so we’ll need to send a command to confirm that yes, we want git to track our new file.
 
 ```
 
@@ -92,7 +92,7 @@ Run the command `git commit -m "Your message about the commit"`
 
 [view raw](https://gist.github.com/cubeton/1068d965d147b4039e4d/raw/5c3262c3f6e3c28328ba57ea33c512dbab149fcf/commit.md)[commit.md ](https://gist.github.com/cubeton/1068d965d147b4039e4d#file-commit-md)hosted with ❤ by [GitHub](https://github.com/)
 
-The message at the end of the commit should be something related to what the commit contains - maybe it's a new feature, maybe it's a bug fix, maybe it's just fixing a typo. Don't put a message like "asdfadsf" or "foobar". That makes the other people who see your commit sad. Very, very, sad. Commits live forever in a repository (technically you *can* delete them if you really, really need to but it’s messy), so if you leave a clear explanation of your changes it can be extremely helpful for future programmers (perhaps future you!) who are trying to figure out why some change was made years later.
+The message at the end of the commit should be something related to what the commit contains - maybe it's a new feature, maybe it's a bug fix, maybe it's just fixing a typo. Don't put a message like "asdfadsf" or "foobar". That makes the other people who see your commit sad. Very, very, sad. Commits live forever in a repository (technically you _can_ delete them if you really, really need to but it’s messy), so if you leave a clear explanation of your changes it can be extremely helpful for future programmers (perhaps future you!) who are trying to figure out why some change was made years later.
 
 ## Step 5: Create a new branch
 
@@ -116,9 +116,9 @@ The branch name with the asterisk next to it indicates which branch you're on at
 
 > #### A note on branch names
 >
-> By default, every git repository’s first branch is named \`master\` (and is typically used as the primary branch in the project). As part of the tech industry’s general anti-racism work, some groups have begun to use alternate names for the default branch (we are using “primary” in this tutorial, for example). In other documentation and discussions, you may see “master”, or other terms, used to refer to the primary branch. Regardless of the name, just keep in mind that nearly every repository has a primary branch that can be thought of as the official version of the repository. If it’s a website, then the primary branch is the version that users see. If it’s an application, then the primary branch is the version that users download. This isn’t *technically* necessary (git doesn’t treat any branches differently from other branches), but it’s how git is traditionally used in a project.
+> By default, every git repository’s first branch is named \`master\` (and is typically used as the primary branch in the project). As part of the tech industry’s general anti-racism work, some groups have begun to use alternate names for the default branch (we are using “primary” in this tutorial, for example). In other documentation and discussions, you may see “master”, or other terms, used to refer to the primary branch. Regardless of the name, just keep in mind that nearly every repository has a primary branch that can be thought of as the official version of the repository. If it’s a website, then the primary branch is the version that users see. If it’s an application, then the primary branch is the version that users download. This isn’t _technically_ necessary (git doesn’t treat any branches differently from other branches), but it’s how git is traditionally used in a project.
 >
-> If you are curious about the decision to use different default branch names, GitHub has an explanation of *their* change here: <https://github.com/github/renaming>
+> If you are curious about the decision to use different default branch names, GitHub has an explanation of _their_ change here: <https://github.com/github/renaming>
 >
 > Now, if you switch back to the primary branch and make some more commits, your new branch won't see any of those changes until you [merge](http://git-scm.com/docs/git-merge) those changes onto your new branch.
 
@@ -129,8 +129,6 @@ If you only want to keep track of your code locally, you don't need to use GitHu
 To create a new repo on GitHub, log in and go to the GitHub home page. You can find the “New repository” option under the “+” sign next to your profile picture, in the top right corner of the navbar:
 
 ![Git_1](https://product.hubspot.com/hs-fs/hubfs/Git_1.png?width=600&name=Git_1.png)
-
-
 
 After clicking the button, GitHub will ask you to name your repo and provide a brief description:
 

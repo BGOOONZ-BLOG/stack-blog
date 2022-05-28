@@ -237,7 +237,7 @@ image: images/js-questions-n-answers.png
     Some of the major difference in a tabular form
 
     | Slice                                        | Splice                                          |
-    |----------------------------------------------|-------------------------------------------------|
+    | -------------------------------------------- | ----------------------------------------------- |
     | Doesn't modify the original array(immutable) | Modifies the original array(mutable)            |
     | Returns the subset of original array         | Returns the deleted elements as array           |
     | Used to pick the elements from array         | Used to insert or delete elements to/from array |
@@ -387,7 +387,7 @@ image: images/js-questions-n-answers.png
     You can list out the differences in a tabular format
 
     | var                                                   | let                         |
-    |-------------------------------------------------------|-----------------------------|
+    | ----------------------------------------------------- | --------------------------- |
     | It is been available from the beginning of JavaScript | Introduced as part of ES6   |
     | It has function scope                                 | It has block scope          |
     | Variables will be hoisted                             | Hoisted but not initialized |
@@ -680,7 +680,7 @@ image: images/js-questions-n-answers.png
     Below are some of the differences between cookie, local storage and session storage,
 
     | Feature                           | Cookie                             | Local storage    | Session storage     |
-    |-----------------------------------|------------------------------------|------------------|---------------------|
+    | --------------------------------- | ---------------------------------- | ---------------- | ------------------- |
     | Accessed on client or server side | Both server-side & client-side     | client-side only | client-side only    |
     | Lifetime                          | As configured using Expires option | until deleted    | until tab is closed |
     | SSL support                       | Supported                          | Not supported    | Not supported       |
@@ -1143,7 +1143,7 @@ image: images/js-questions-n-answers.png
     Below are the main differences between null and undefined,
 
     | Null                                                                                            | Undefined                                                                                               |
-    |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+    | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
     | It is an assignment value which indicates that variable points to no object.                    | It is not an assignment value where a variable has been declared but has not yet been assigned a value. |
     | Type of null is object                                                                          | Type of undefined is undefined                                                                          |
     | The null value is a primitive value that represents the null, empty, or non-existent reference. | The undefined value is a primitive value used when a variable has not been assigned a value.            |
@@ -1163,7 +1163,7 @@ image: images/js-questions-n-answers.png
     Below are the main differences between window and document,
 
     | Window                                                                        | Document                                                                                      |
-    |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+    | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
     | It is the root level element in any web page                                  | It is the direct child of the window object. This is also known as Document Object Model(DOM) |
     | By default window object is available implicitly in the page                  | You can access it via window.document or document.                                            |
     | It has methods like alert(), confirm() and properties like document, location | It provides methods like getElementById, getElementsByTagName, createElement etc              |
@@ -1220,7 +1220,7 @@ image: images/js-questions-n-answers.png
     Below are the major differences between undeclared and undefined variables,
 
     | undeclared                                                                                  | undefined                                                                              |
-    |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+    | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
     | These variables do not exist in a program and are not declared                              | These variables declared in the program but have not assigned any value                |
     | If you try to read the value of an undeclared variable, then a runtime error is encountered | If you try to read the value of an undefined variable, an undefined value is returned. |
 
@@ -2114,7 +2114,7 @@ Cons
      Modifiers can be used to perform case-insensitive and global searches. Let's list down some of the modifiers,
 
      | Modifier | Description                                             |
-     |----------|---------------------------------------------------------|
+     | -------- | ------------------------------------------------------- |
      | i        | Perform case-insensitive matching                       |
      | g        | Perform a global match rather than stops at first match |
      | m        | Perform multiline matching                              |
@@ -3480,7 +3480,7 @@ Cons
      Below are the list of differences between javascript and typescript,
 
      | feature             | typescript                            | javascript                                      |
-     |---------------------|---------------------------------------|-------------------------------------------------|
+     | ------------------- | ------------------------------------- | ----------------------------------------------- |
      | Language paradigm   | Object oriented programming language  | Scripting language                              |
      | Typing support      | Supports static typing                | It has dynamic typing                           |
      | Modules             | Supported                             | Not supported                                   |
@@ -3730,7 +3730,7 @@ Cons
      Below are the main differences between Obfuscation and Encryption,
 
      | Feature            | Obfuscation                                     | Encryption                                                              |
-     |--------------------|-------------------------------------------------|-------------------------------------------------------------------------|
+     | ------------------ | ----------------------------------------------- | ----------------------------------------------------------------------- |
      | Definition         | Changing the form of any data in any other form | Changing the form of information to an unreadable format by using a key |
      | A key to decode    | It can be decoded without any key               | It is required                                                          |
      | Target data format | It will be converted to a complex form          | Converted into an unreadable format                                     |
@@ -5481,7 +5481,7 @@ Cons
      Some of the major difference in a tabular form
 
      | Promises                                                           | Observables                                                                              |
-     |--------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+     | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
      | Emits only a single value at a time                                | Emits multiple values over a period of time(stream of values ranging from 0 to multiple) |
      | Eager in nature; they are going to be called immediately           | Lazy in nature; they require subscription to be invoked                                  |
      | Promise is always asynchronous even though it resolved immediately | Observable can be either synchronous or asynchronous                                     |
@@ -6135,10 +6135,10 @@ function Vehicle(model, color, year, country) {
 }
 ```
 
--  Undefined
-- 2: ReferenceError
-- 3: null
-- 4: {model: "Honda", color: "white", year: "2010", country: "UK"}
+-   Undefined
+-   2: ReferenceError
+-   3: null
+-   4: {model: "Honda", color: "white", year: "2010", country: "UK"}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6169,10 +6169,10 @@ function foo() {
 c ole.log(foo(), typeof x, typeof y);
 ```
 
--  1, undefined and undefined
-- 2: ReferenceError: X is not defined
-- 3: 1, undefined and number
-- 4: 1, number and number
+-   1, undefined and undefined
+-   2: ReferenceError: X is not defined
+-   3: 1, undefined and number
+-   4: 1, number and number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6199,8 +6199,6 @@ Since the block scoped variable x is undefined outside of the function, the type
 ---
 
 ```js
-
-
 function main() {
     console.log('A');
     setTimeout(function print() {
@@ -6208,13 +6206,13 @@ function main() {
     }, 0);
     console.log('C');
 }
-m ();
+m();
 ```
 
--  A, B and C
-- 2: B, A and C
-- 3: A and C
-- 4: A, C and B
+-   A, B and C
+-   2: B, A and C
+-   3: A and C
+-   4: A, C and B
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6243,8 +6241,8 @@ The statements order is based on the event loop mechanism. The order of statemen
 c ole.log(0.1 + 0.2 === 0.3);
 ```
 
-- 1: false
-- 2: true
+-   1: false
+-   2: true
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6269,10 +6267,10 @@ if (function f() {}) {
 c ole.log(y);
 ```
 
--  1function
-- 2: 1object
-- 3: ReferenceError
-- 4: 1undefined
+-   1function
+-   2: 1object
+-   3: ReferenceError
+-   4: 1undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6317,10 +6315,10 @@ function foo() {
 c ole.log(foo());
 ```
 
--  Hello World
-- 2: Object {message: "Hello World"}
-- 3: Undefined
-- 4: SyntaxError
+-   Hello World
+-   2: Object {message: "Hello World"}
+-   3: Undefined
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6334,8 +6332,6 @@ Whereas if the opening curly brace is along with the return keyword then the fun
 ---
 
 ```js
-
-
 function foo() {
     return {
         message: 'Hello World'
@@ -6359,10 +6355,10 @@ console.log(myChars[0]);
 c ole.log(myChars.length);
 ```
 
--  [empty, 'b', 'c', 'd'], empty, 3
-- 2: [null, 'b', 'c', 'd'], empty, 3
-- 3: [empty, 'b', 'c', 'd'], undefined, 4
-- 4: [null, 'b', 'c', 'd'], undefined, 4
+-   [empty, 'b', 'c', 'd'], empty, 3
+-   2: [null, 'b', 'c', 'd'], empty, 3
+-   3: [empty, 'b', 'c', 'd'], undefined, 4
+-   4: [null, 'b', 'c', 'd'], undefined, 4
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6391,10 +6387,10 @@ var array3 = [, , ,];
 c ole.log(array3);
 ```
 
--  [undefined × 3], [undefined × 2, 100], [undefined × 3]
-- 2: [empty × 3], [empty × 2, 100], [empty × 3]
-- 3: [null × 3], [null × 2, 100], [null × 3]
-- 4: [], [100], []
+-   [undefined × 3], [undefined × 2, 100], [undefined × 3]
+-   2: [empty × 3], [empty × 2, 100], [empty × 3]
+-   3: [null × 3], [null × 2, 100], [null × 3]
+-   4: [], [100], []
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6429,10 +6425,10 @@ console.log(obj.prop2());
 c ole.log(obj.prop3());
 ```
 
--  0, 1, 2
-- 2: 0, { return 1 }, 2
-- 3: 0, { return 1 }, { return 2 }
-- 4: 0, 1, undefined
+-   0, 1, 2
+-   2: 0, { return 1 }, 2
+-   3: 0, { return 1 }, { return 2 }
+-   4: 0, 1, undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6453,10 +6449,10 @@ console.log(1 < 2 < 3);
 c ole.log(3 > 2 > 1);
 ```
 
--  true, true
-- 2: true, false
-- 3: SyntaxError, SyntaxError,
-- 4: false, false
+-   true, true
+-   2: true, false
+-   3: SyntaxError, SyntaxError,
+-   4: false, false
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6496,10 +6492,10 @@ function printNumbers(first, second, first) {
 p tNumbers(1, 2, 3);
 ```
 
--  1, 2, 3
-- 2: 3, 2, 3
-- 3: SyntaxError: Duplicate parameter name not allowed in this context
-- 4: 1, 2, 1
+-   1, 2, 3
+-   2: 3, 2, 3
+-   3: SyntaxError: Duplicate parameter name not allowed in this context
+-   4: 1, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6525,10 +6521,10 @@ const printNumbersArrow = (first, second, first) => {
 p tNumbersArrow(1, 2, 3);
 ```
 
--  1, 2, 3
-- 2: 3, 2, 3
-- 3: SyntaxError: Duplicate parameter name not allowed in this context
-- 4: 1, 2, 1
+-   1, 2, 3
+-   2: 3, 2, 3
+-   3: SyntaxError: Duplicate parameter name not allowed in this context
+-   4: 1, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6549,10 +6545,10 @@ const arrowFunc = () => arguments.length;
 c ole.log(arrowFunc(1, 2, 3));
 ```
 
--  ReferenceError: arguments is not defined
-- 2: 3
-- 3: undefined
-- 4: null
+-   ReferenceError: arguments is not defined
+-   2: 3
+-   3: undefined
+-   4: null
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6589,8 +6585,8 @@ console.log(String.prototype.trimLeft.name === 'trimLeft');
 c ole.log(String.prototype.trimLeft.name === 'trimStart');
 ```
 
-- 1: True, False
-- 2: False, True
+-   1: True, False
+-   2: False, True
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6610,10 +6606,10 @@ In order to be consistent with functions like `String.prototype.padStart`, the s
 c ole.log(Math.max());
 ```
 
--  undefined
-- 2: Infinity
-- 3: 0
-- 4: -Infinity
+-   undefined
+-   2: Infinity
+-   3: 0
+-   4: -Infinity
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6635,10 +6631,10 @@ console.log(10 == [10]);
 c ole.log(10 == [[[[[[[10]]]]]]]);
 ```
 
--  True, True
-- 2: True, False
-- 3: False, False
-- 4: False, True
+-   True, True
+-   2: True, False
+-   3: False, False
+-   4: False, True
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6665,10 +6661,10 @@ console.log(10 + '10');
 c ole.log(10 - '10');
 ```
 
--  20, 0
-- 2: 1010, 0
-- 3: 1010, 10-10
-- 4: NaN, NaN
+-   20, 0
+-   2: 1010, 0
+-   3: 1010, 10-10
+-   4: NaN, NaN
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6693,10 +6689,10 @@ if ([0]) {
 }
 ```
 
--  True, I'm True
-- 2: True, I'm False
-- 3: False, I'm True
-- 4: False, I'm False
+-   True, I'm True
+-   2: True, I'm False
+-   3: False, I'm True
+-   4: False, I'm False
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6714,10 +6710,10 @@ In comparison operators, the expression `[0]` converted to Number([0].valueOf().
 c ole.log([1, 2] + [3, 4]);
 ```
 
--  [1,2,3,4]
-- 2: [1,2][3,4]
-- 3: SyntaxError
-- 4: 1,23,4
+-   [1,2,3,4]
+-   2: [1,2][3,4]
+-   3: SyntaxError
+-   4: 1,23,4
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6741,10 +6737,10 @@ const browser = new Set('Firefox');
 c ole.log(browser);
 ```
 
--  {1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
-- 2: {1, 2, 3, 4}, {"F", "i", "r", "e", "o", "x"}
-- 3: [1, 2, 3, 4], ["F", "i", "r", "e", "o", "x"]
-- 4: {1, 1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
+-   {1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
+-   2: {1, 2, 3, 4}, {"F", "i", "r", "e", "o", "x"}
+-   3: [1, 2, 3, 4], ["F", "i", "r", "e", "o", "x"]
+-   4: {1, 1, 2, 3, 4}, {"F", "i", "r", "e", "f", "o", "x"}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6764,8 +6760,8 @@ Since `Set` object is a collection of unique values, it won't allow duplicate va
 c ole.log(NaN === NaN);
 ```
 
-- 1: True
-- 2: False
+-   1: True
+-   2: False
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6786,10 +6782,10 @@ let numbers = [1, 2, 3, 4, NaN];
 c ole.log(numbers.indexOf(NaN));
 ```
 
--  4
-- 2: NaN
-- 3: SyntaxError
-- 4: -1
+-   4
+-   2: NaN
+-   3: SyntaxError
+-   4: -1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6818,10 +6814,10 @@ let [a, ...b,] = [1, 2, 3, 4, 5];
 c ole.log(a, b);
 ```
 
--  1, [2, 3, 4, 5]
-- 2: 1, {2, 3, 4, 5}
-- 3: SyntaxError
-- 4: 1, [2, 3, 4]
+-   1, [2, 3, 4, 5]
+-   2: 1, {2, 3, 4, 5}
+-   3: SyntaxError
+-   4: 1, [2, 3, 4]
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6850,10 +6846,10 @@ async function func() {
 c ole.log(func());
 ```
 
--  Promise {\<fulfilled\>: 10}
-- 2: 10
-- 3: SyntaxError
-- 4: Promise {\<rejected\>: 10}
+-   Promise {\<fulfilled\>: 10}
+-   2: 10
+-   3: SyntaxError
+-   4: Promise {\<rejected\>: 10}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6865,8 +6861,6 @@ Async functions always return a promise. But even if the return value of an asyn
 ---
 
 ```js
-
-
 function func() {
     return Promise.resolve(10);
 }
@@ -6886,10 +6880,10 @@ async function func() {
 c ole.log(func());
 ```
 
--  Promise {\<fulfilled\>: 10}
-- 2: 10
-- 3: SyntaxError
-- 4: Promise {\<resolved\>: undefined}
+-   Promise {\<fulfilled\>: 10}
+-   2: 10
+-   3: SyntaxError
+-   4: Promise {\<resolved\>: undefined}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6901,8 +6895,6 @@ The await expression returns value 10 with promise resolution and the code after
 ---
 
 ```js
-
-
 function func() {
     return Promise.resolve(10).then(() => undefined);
 }
@@ -6938,10 +6930,10 @@ async function processArray(array) {
 p essArray([1, 2, 3, 4]);
 ```
 
--  SyntaxError
-- 2: 1, 2, 3, 4
-- 3: 4, 4, 4, 4
-- 4: 4, 3, 2, 1
+-   SyntaxError
+-   2: 1, 2, 3, 4
+-   3: 4, 4, 4, 4
+-   4: 4, 3, 2, 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -6981,10 +6973,10 @@ async function process(array) {
 p ess([1, 2, 3, 5]);
 ```
 
--  1 2 3 5 and Process completed!
-- 2: 5 5 5 5 and Process completed!
-- 3: Process completed! and 5 5 5 5
-- 4: Process completed! and 1 2 3 5
+-   1 2 3 5 and Process completed!
+-   2: 5 5 5 5 and Process completed!
+-   3: Process completed! and 5 5 5 5
+-   4: Process completed! and 1 2 3 5
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7017,10 +7009,10 @@ set.add('+0').add('-0').add(NaN).add(undefined).add(NaN);
 c ole.log(set);
 ```
 
--  Set(4) {"+0", "-0", NaN, undefined}
-- 2: Set(3) {"+0", NaN, undefined}
-- 3: Set(5) {"+0", "-0", NaN, undefined, NaN}
-- 4: Set(4) {"+0", NaN, undefined, NaN}
+-   Set(4) {"+0", "-0", NaN, undefined}
+-   2: Set(3) {"+0", NaN, undefined}
+-   3: Set(5) {"+0", "-0", NaN, undefined, NaN}
+-   4: Set(4) {"+0", NaN, undefined, NaN}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7049,10 +7041,10 @@ const sym4 = Symbol.for('two');
 c oe.log(sym1 === sym2, sym3 === sym4);
 ```
 
--  true, true
-- 2: true, false
-- 3: false, true
-- 4: false, false
+-   true, true
+-   2: true, false
+-   3: false, true
+-   4: false, false
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7079,10 +7071,10 @@ const sym1 = new Symbol('one');
 c ole.log(sym1);
 ```
 
--  SyntaxError
-- 2: one
-- 3: Symbol('one')
-- 4: Symbol
+-   SyntaxError
+-   2: one
+-   3: Symbol('one')
+-   4: Symbol
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7116,10 +7108,10 @@ if (!typeof myString === 'number') {
 }
 ```
 
--  SyntaxError
-- 2: It is not a string!, It is not a number!
-- 3: It is not a string!, It is a number!
-- 4: It is a string!, It is a number!
+-   SyntaxError
+-   2: It is not a string!, It is not a number!
+-   3: It is not a string!, It is a number!
+-   4: It is a string!, It is a number!
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7141,10 +7133,10 @@ console.log(JSON.stringify({ myArray: ['one', undefined, function () {}, Symbol(
 c ole.log(JSON.stringify({ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]));
 ```
 
--  {"myArray":['one', undefined, {}, Symbol]}, {}
-- 2: {"myArray":['one', null,null,null]}, {}
-- 3: {"myArray":['one', null,null,null]}, "{ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]"
-- 4: {"myArray":['one', undefined, function(){}, Symbol('')]}, {}
+-   {"myArray":['one', undefined, {}, Symbol]}, {}
+-   2: {"myArray":['one', null,null,null]}, {}
+-   3: {"myArray":['one', null,null,null]}, "{ [Symbol.for('one')]: 'one' }, [Symbol.for('one')]"
+-   4: {"myArray":['one', undefined, function(){}, Symbol('')]}, {}
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7181,8 +7173,8 @@ new A();
 n B();
 ```
 
-- 1: A, A
-- 2: A, B
+-   1: A, A
+-   2: A, B
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7204,10 +7196,10 @@ const [x, ...y,] = [1, 2, 3, 4];
 c ole.log(x, y);
 ```
 
--  1, [2, 3, 4]
-- 2: 1, [2, 3]
-- 3: 1, [2]
-- 4: SyntaxError
+-   1, [2, 3, 4]
+-   2: 1, [2, 3]
+-   3: 1, [2]
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7231,10 +7223,10 @@ console.log(x);
 c ole.log(y);
 ```
 
--  30, 20
-- 2: 10, 20
-- 3: 10, undefined
-- 4: 30, undefined
+-   30, 20
+-   2: 10, 20
+-   3: 10, undefined
+-   4: 30, undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7257,19 +7249,17 @@ The object property follows below rules,
 ---
 
 ```js
-
-
 function area({ length = 10, width = 20 }) {
     console.log(length * width);
 }
 
-a ();
+a();
 ```
 
--  200
-- 2: Error
-- 3: undefined
-- 4: 0
+-   200
+-   2: Error
+-   3: undefined
+-   4: 0
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7285,8 +7275,6 @@ You can avoid the error with either of the below changes,
 ---
 
 ```js
-
-
 function area({ length = 10, width = 20 }) {
     console.log(length * width);
 }
@@ -7299,8 +7287,6 @@ area({});
 ---
 
 ```js
-
-
 function area({ length = 10, width = 20 } = {}) {
     console.log(length * width);
 }
@@ -7327,10 +7313,10 @@ const [, , { name }] = props;
 c ole.log(name);
 ```
 
--  Tom
-- 2: Error
-- 3: undefined
-- 4: John
+-   Tom
+-   2: Error
+-   3: undefined
+-   4: John
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7362,10 +7348,10 @@ checkType('');
 c kType(null);
 ```
 
--  number, undefined, string, object
-- 2: undefined, undefined, string, object
-- 3: number, number, string, object
-- 4: number, number, number, number
+-   number, undefined, string, object
+-   2: undefined, undefined, string, object
+-   3: number, number, string, object
+-   4: number, number, number, number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7401,8 +7387,8 @@ console.log(add('Orange'));
 c ole.log(add('Apple'));
 ```
 
-- 1: ['Orange'], ['Orange', 'Apple']
-- 2: ['Orange'], ['Apple']
+-   1: ['Orange'], ['Orange', 'Apple']
+-   2: ['Orange'], ['Apple']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7432,8 +7418,8 @@ greet('Hello', 'John');
 g t('Hello', 'John', 'Good morning!');
 ```
 
-- 1: SyntaxError
-- 2: ['Hello', 'John', 'Hello John'], ['Hello', 'John', 'Good morning!']
+-   1: SyntaxError
+-   2: ['Hello', 'John', 'Hello John'], ['Hello', 'John', 'Good morning!']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7463,8 +7449,8 @@ function outer(f = inner()) {
 o r();
 ```
 
-- 1: ReferenceError
-- 2: Inner
+-   1: ReferenceError
+-   2: Inner
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7494,10 +7480,10 @@ myFun(1, 2, 3, 4, 5);
 m n(1, 2);
 ```
 
--  [3, 4, 5], undefined
-- 2: SyntaxError
-- 3: [3, 4, 5], []
-- 4: [3, 4, 5], [undefined]
+-   [3, 4, 5], undefined
+-   2: SyntaxError
+-   3: [3, 4, 5], []
+-   4: [3, 4, 5], [undefined]
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7520,10 +7506,10 @@ const array = [...obj];
 c ole.log(array);
 ```
 
--  ['key', 'value']
-- 2: TypeError
-- 3: []
-- 4: ['key']
+-   ['key', 'value']
+-   2: TypeError
+-   3: []
+-   4: ['key']
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7554,10 +7540,10 @@ var myGenObj = new myGenFunc();
 c ole.log(myGenObj.next().value);
 ```
 
--  1
-- 2: undefined
-- 3: SyntaxError
-- 4: TypeError
+-   1
+-   2: undefined
+-   3: SyntaxError
+-   4: TypeError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7591,10 +7577,10 @@ console.log(myGenObj.next());
 c ole.log(myGenObj.next());
 ```
 
--  { value: 1, done: false }, { value: 2, done: true }, { value: undefined, done: true }
-- 2: { value: 1, done: false }, { value: 2, done: false }, { value: undefined, done: true }
-- 3: { value: 1, done: false }, { value: 2, done: true }, { value: 3, done: true }
-- 4: { value: 1, done: false }, { value: 2, done: false }, { value: 3, done: true }
+-   { value: 1, done: false }, { value: 2, done: true }, { value: undefined, done: true }
+-   2: { value: 1, done: false }, { value: 2, done: false }, { value: undefined, done: true }
+-   3: { value: 1, done: false }, { value: 2, done: true }, { value: 3, done: true }
+-   4: { value: 1, done: false }, { value: 2, done: false }, { value: 3, done: true }
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7627,10 +7613,10 @@ for (const value of myGenerator) {
 }
 ```
 
--  1,2,3 and 1,2,3
-- 2: 1,2,3 and 4,5,6
-- 3: 1 and 1
-- 4: 1
+-   1,2,3 and 1,2,3
+-   2: 1,2,3 and 4,5,6
+-   3: 1 and 1
+-   4: 1
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7652,8 +7638,8 @@ const num = 0o38;
 c ole.log(num);
 ```
 
-- 1: SyntaxError
-- 2: 38
+-   1: SyntaxError
+-   2: 38
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7689,8 +7675,8 @@ class Square {
 }
 ```
 
-- 1: 100
-- 2: ReferenceError
+-   1: 100
+-   2: ReferenceError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7732,10 +7718,10 @@ let run = Person.run;
 c ole.log(run());
 ```
 
--  undefined, undefined
-- 2: Person, Person
-- 3: SyntaxError
-- 4: Window, Window
+-   undefined, undefined
+-   2: Person, Person
+-   3: SyntaxError
+-   4: Window, Window
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7774,10 +7760,10 @@ const car = new Car('BMW');
 c ole.log(car.start());
 ```
 
--  SyntaxError
-- 2: BMW vehicle started, BMW car started
-- 3: BMW car started, BMW vehicle started
-- 4: BMW car started, BMW car started
+-   SyntaxError
+-   2: BMW vehicle started, BMW car started
+-   3: BMW car started, BMW vehicle started
+-   4: BMW car started, BMW car started
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7800,10 +7786,10 @@ USER.age = 25;
 c ole.log(USER.age);
 ```
 
--  30
-- 2: 25
-- 3: Uncaught TypeError
-- 4: SyntaxError
+-   30
+-   2: 25
+-   3: Uncaught TypeError
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7824,8 +7810,8 @@ Even though we used constant variables, the content of it is an object and the o
 c ole.log('🙂' === '🙂');
 ```
 
-- 1: false
-- 2: true
+-   1: false
+-   2: true
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7846,10 +7832,10 @@ Emojis are unicodes and the unicode for smile symbol is "U+1F642". The unicode c
 c ole.log(typeof typeof typeof true);
 ```
 
--  string
-- 2: boolean
-- 3: NaN
-- 4: number
+-   string
+-   2: boolean
+-   3: NaN
+-   4: number
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7876,10 +7862,10 @@ if (zero) {
 }
 ```
 
--  If
-- 2: Else
-- 3: NaN
-- 4: SyntaxError
+-   If
+-   2: Else
+-   3: NaN
+-   4: SyntaxError
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7907,10 +7893,10 @@ msg.name = 'John';
 c ole.log(msg.name);
 ```
 
--  ""
-- 2: Error
-- 3: John
-- 4: Undefined
+-   ""
+-   2: Error
+-   3: John
+-   4: Undefined
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7939,10 +7925,10 @@ let count = 10;
 } ;
 ```
 
--  11, 10
-- 2: 11, 11
-- 3: 10, 11
-- 4: 10, 10
+-   11, 10
+-   2: 11, 11
+-   3: 10, 11
+-   4: 10, 10
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -7961,4 +7947,7 @@ Whereas the second console.log logs 10 by capturing the count variable from oute
 ---
 
 ---
+
+```
+
 ```

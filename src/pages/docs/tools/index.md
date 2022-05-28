@@ -35,16 +35,12 @@ seo:
 template: docs
 ---
 
-
-
 <h1>   Markdown tools  </h1>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -56,12 +52,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <h1> HTML TO Markdown Converter  </h1>
@@ -70,12 +64,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -87,22 +79,17 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
 
-
 <br>
-
-
 
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <h1>   Number Base Converter  </h1>
@@ -142,12 +129,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -162,12 +147,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -179,12 +162,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
@@ -197,12 +178,10 @@ template: docs
 
 <br>
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 <br>
 <br>
