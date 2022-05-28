@@ -1,10 +1,10 @@
-import React from 'react';
+import {graphql} from 'gatsby';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import {graphql} from 'gatsby';
+import React from 'react';
 
 import {Layout} from '../components/index';
-import {toStyleObj, withPrefix, htmlToReact} from '../utils';
+import {htmlToReact, toStyleObj, withPrefix} from '../utils';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -17,13 +17,17 @@ export const query = graphql`
 `;
 
 export default class Post extends React.Component {
-    render() {
+  render() {
         return (
             <Layout {...this.props}>
               <article className="post post-full">
                 <header className="post-header has-gradient outer">
                   {_.get(this.props, 'pageContext.frontmatter.image', null) && (
-                  <div className="bg-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null)) + '\')')}/>
+                  <div className="bg-img" style={
+        toStyleObj('background-image: url(\'' +
+                   withPrefix(_.get(this.props, 'pageContext.frontmatter.image',
+                                    null)) +
+                   '\')')}/>
                   )}
                   <div className="inner-sm">
                     <div className="post-meta">

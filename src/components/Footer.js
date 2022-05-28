@@ -1,11 +1,12 @@
-import React from 'react';
 import _ from 'lodash';
+import React from 'react';
 
 import {htmlToReact} from '../utils';
+
 import ActionLink from './ActionLink';
 
 export default class Footer extends React.Component {
-    render() {
+  render() {
         return (
             <footer id="colophon" className="site-footer outer">
               <div className="inner">
@@ -22,12 +23,13 @@ export default class Footer extends React.Component {
                   <div className="social-links">
                     {_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.social_links', null), (action, action_idx) => (
                       <ActionLink key={action_idx} {...this.props} action={action} />
-                    ))}
+                    ))
+  }
                   </div>
                   )}
                 </div>
               </div>
             </footer>
         );
-    }
+}
 }

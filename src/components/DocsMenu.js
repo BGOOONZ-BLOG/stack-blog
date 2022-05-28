@@ -1,15 +1,23 @@
-import React from 'react';
 import _ from 'lodash';
+import React from 'react';
 
-import {getPage, classNames, Link, withPrefix, pathJoin, getPages} from '../utils';
+import {
+  classNames,
+  getPage,
+  getPages,
+  Link,
+  pathJoin,
+  withPrefix
+} from '../utils';
+
 import DocsSubmenu from './DocsSubmenu';
 
 export default class DocsMenu extends React.Component {
-    render() {
-        let site = _.get(this.props, 'site', null);
-        let page = _.get(this.props, 'page', null);
-        let root_docs_path = _.get(site, 'data.doc_sections.root_docs_path', null);
-        let root_page = getPage(this.props.pageContext.pages, root_docs_path);
+  render() {
+    let site = _.get(this.props, 'site', null);
+    let page = _.get(this.props, 'page', null);
+    let root_docs_path = _.get(site, 'data.doc_sections.root_docs_path', null);
+    let root_page = getPage(this.props.pageContext.pages, root_docs_path);
         return (
             <nav id="docs-nav" className="docs-nav">
               <div id="docs-nav-inside" className="docs-nav-inside sticky">

@@ -1,5 +1,5 @@
-import React from "react"
 import PropTypes from "prop-types"
+import React from "react"
 
 export default function HTML(props) {
   return (
@@ -13,13 +13,14 @@ export default function HTML(props) {
           This app works best with JavaScript enabled.
         </noscript>
         <div
-          key={`body`}
-          id="___gatsby"
-          dangerouslySetInnerHTML={{ __html: props.body }}
-        />
+  key = {`body`} id = "___gatsby"
+  dangerouslySetInnerHTML =
+  {
+    { __html: props.body }
+  } />
         {props.postBodyComponents}
-      </body>
-    </html>
+      </body > <
+      /html>
   )
 }
 

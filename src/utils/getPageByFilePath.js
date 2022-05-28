@@ -8,11 +8,11 @@ import _ from 'lodash';
  * @return {Object}
  */
 export default function getPageByFilePath(pages, filePath) {
-    filePath = _.trim(filePath, '.md');
-    const urlPath = filePath.replace(/^\/?src\/pages\//, '');
+  filePath = _.trim(filePath, '.md');
+  const urlPath = filePath.replace(/^\/?src\/pages\//, '');
 
-    return _.find(pages, page => {
-        const pageUrlPath = _.trim(_.get(page, 'url'), '/');
-        return urlPath === pageUrlPath;
-    });
+  return _.find(pages, page => {
+    const pageUrlPath = _.trim(_.get(page, 'url'), '/');
+    return urlPath === pageUrlPath;
+  });
 }

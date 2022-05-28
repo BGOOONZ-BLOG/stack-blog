@@ -1,6 +1,6 @@
-import React from 'react';
-import _ from 'lodash';
 import {graphql} from 'gatsby';
+import _ from 'lodash';
+import React from 'react';
 
 import components, {Layout} from '../components/index';
 
@@ -15,17 +15,18 @@ export const query = graphql`
 `;
 
 export default class Advanced extends React.Component {
-    render() {
+  render() {
         return (
             <Layout {...this.props}>
             {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
-                let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
-                let Component = components[component];
-                return (
-                  <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
+        let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
+        let Component = components[component];
+        return (<Component key = {section_idx} {...this.props} section = {
+                     section} site = {
+          this.props.pageContext.site
+        } />
                 )
             })}
-            </Layout>
-        );
+            </Layout>);
     }
 }
