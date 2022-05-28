@@ -14,13 +14,13 @@ template: docs
 ### Web Dev Resources
 
 <details>
-  
+
   <summary>
     JS RESOURCES
-    
+
   </summary>
-  
-  
+
+
 - [Worth Reading](#worth-reading)
 - [Other Awesome Lists](#other-awesome-lists)
     - [JavaScript](#javascript)
