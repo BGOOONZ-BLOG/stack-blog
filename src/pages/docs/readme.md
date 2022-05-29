@@ -25,7 +25,7 @@ image: images/bgoonzblog20-a6a3bfc3.png
 
 ![profile views](https://komarev.com/ghpvc/?username=bgoonz)
 
-## [<b>WEBSITE</b>](https://enthusiastic-spinach-93724.stackbit.app/)
+## [<b>WEBSITE</b>](https://stackbit-blog-backup.netlify.app/)
 
 # Search Website: [search](https://www.algolia.com/realtime-search-demo/web-dev-resource-hub-9e6b8aa8-6106-44c5-9f59-ff3f9531abd4)
 
@@ -433,349 +433,349 @@ This page contains links that give the impression that some of the site contents
 
 # Sitemap
 
-- [/job-hunt/](https://enthusiastic-spinach-93724.stackbit.app/job-hunt/)
+- [/job-hunt/](https://stackbit-blog-backup.netlify.app/job-hunt/)
 
-- [/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/notes-template/)
+- [/notes-template/](https://stackbit-blog-backup.netlify.app/notes-template/)
 
-- [/](https://enthusiastic-spinach-93724.stackbit.app/)
+- [/](https://stackbit-blog-backup.netlify.app/)
 
-- [/showcase/](https://enthusiastic-spinach-93724.stackbit.app/showcase/)
+- [/showcase/](https://stackbit-blog-backup.netlify.app/showcase/)
 
-- [/blog/](https://enthusiastic-spinach-93724.stackbit.app/blog/)
+- [/blog/](https://stackbit-blog-backup.netlify.app/blog/)
 
-- [/review/](https://enthusiastic-spinach-93724.stackbit.app/review/)
+- [/review/](https://stackbit-blog-backup.netlify.app/review/)
 
-- [/blog/blog-archive/](https://enthusiastic-spinach-93724.stackbit.app/blog/blog-archive/)
+- [/blog/blog-archive/](https://stackbit-blog-backup.netlify.app/blog/blog-archive/)
 
-- [/blog/my-medium/](https://enthusiastic-spinach-93724.stackbit.app/blog/my-medium/)
+- [/blog/my-medium/](https://stackbit-blog-backup.netlify.app/blog/my-medium/)
 
-- [/blog/blogwcomments/](https://enthusiastic-spinach-93724.stackbit.app/blog/blogwcomments/)
+- [/blog/blogwcomments/](https://stackbit-blog-backup.netlify.app/blog/blogwcomments/)
 
-- [/blog/data-structures/](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures/)
+- [/blog/data-structures/](https://stackbit-blog-backup.netlify.app/blog/data-structures/)
 
-- [/docs/gallery/](https://enthusiastic-spinach-93724.stackbit.app/docs/gallery/)
+- [/docs/gallery/](https://stackbit-blog-backup.netlify.app/docs/gallery/)
 
-- [/blog/python-for-js-dev/](https://enthusiastic-spinach-93724.stackbit.app/blog/python-for-js-dev/)
+- [/blog/python-for-js-dev/](https://stackbit-blog-backup.netlify.app/blog/python-for-js-dev/)
 
-- [/blog/platform-docs/](https://enthusiastic-spinach-93724.stackbit.app/blog/platform-docs/)
+- [/blog/platform-docs/](https://stackbit-blog-backup.netlify.app/blog/platform-docs/)
 
-- [/docs/sitemap/](https://enthusiastic-spinach-93724.stackbit.app/docs/sitemap/)
+- [/docs/sitemap/](https://stackbit-blog-backup.netlify.app/docs/sitemap/)
 
-- [/docs/about/me/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/me/)
+- [/docs/about/me/](https://stackbit-blog-backup.netlify.app/docs/about/me/)
 
-- [/blog/python-resources/](https://enthusiastic-spinach-93724.stackbit.app/blog/python-resources/)
+- [/blog/python-resources/](https://stackbit-blog-backup.netlify.app/blog/python-resources/)
 
-- [/docs/about/resume/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/resume/)
+- [/docs/about/resume/](https://stackbit-blog-backup.netlify.app/docs/about/resume/)
 
-- [/docs/](https://preview--bgoonz-b2d7c.stackbit.https://enthusiastic-spinach-93724.stackbit.app/log/web-scraping/)
+- [/docs/](https://preview--bgoonz-b2d7c.stackbit.https://stackbit-blog-backup.netlify.app/log/web-scraping/)
 
-- [/docs/about/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/)
+- [/docs/about/](https://stackbit-blog-backup.netlify.app/docs/about/)
 
-- [/docs/articles/algo/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/algo/)
+- [/docs/articles/algo/](https://stackbit-blog-backup.netlify.app/docs/articles/algo/)
 
-- [/docs/articles/install/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/install/)
+- [/docs/articles/install/](https://stackbit-blog-backup.netlify.app/docs/articles/install/)
 
-- [/docs/articles/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/)
+- [/docs/articles/](https://stackbit-blog-backup.netlify.app/docs/articles/)
 
-- [/docs/articles/gallery/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/gallery/)
+- [/docs/articles/gallery/](https://stackbit-blog-backup.netlify.app/docs/articles/gallery/)
 
-- [/docs/articles/intro/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/intro/)
+- [/docs/articles/intro/](https://stackbit-blog-backup.netlify.app/docs/articles/intro/)
 
-- [/docs/articles/basic-web-dev/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/basic-web-dev/)
+- [/docs/articles/basic-web-dev/](https://stackbit-blog-backup.netlify.app/docs/articles/basic-web-dev/)
 
-- [/docs/articles/reading-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/reading-files/)
+- [/docs/articles/reading-files/](https://stackbit-blog-backup.netlify.app/docs/articles/reading-files/)
 
-- [/docs/articles/writing-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/writing-files/)
+- [/docs/articles/writing-files/](https://stackbit-blog-backup.netlify.app/docs/articles/writing-files/)
 
-- [/docs/audio/audio/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/audio/)
+- [/docs/audio/audio/](https://stackbit-blog-backup.netlify.app/docs/audio/audio/)
 
-- [/docs/content/projects/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/projects/)
+- [/docs/content/projects/](https://stackbit-blog-backup.netlify.app/docs/content/projects/)
 
-- [/docs/audio/terms/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/terms/)
+- [/docs/audio/terms/](https://stackbit-blog-backup.netlify.app/docs/audio/terms/)
 
-- [/docs/faq/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/)
+- [/docs/faq/](https://stackbit-blog-backup.netlify.app/docs/faq/)
 
-- [/docs/community/](https://enthusiastic-spinach-93724.stackbit.app/docs/community/)
+- [/docs/community/](https://stackbit-blog-backup.netlify.app/docs/community/)
 
-- [/docs/articles/resources/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/resources/)
+- [/docs/articles/resources/](https://stackbit-blog-backup.netlify.app/docs/articles/resources/)
 
-- [/docs/content/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/)
+- [/docs/content/](https://stackbit-blog-backup.netlify.app/docs/content/)
 
-- [/docs/docs/git-repos/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/git-repos/)
+- [/docs/docs/git-repos/](https://stackbit-blog-backup.netlify.app/docs/docs/git-repos/)
 
-- [/docs/content/trouble-shooting/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/trouble-shooting/)
+- [/docs/content/trouble-shooting/](https://stackbit-blog-backup.netlify.app/docs/content/trouble-shooting/)
 
-- [/docs/articles/python/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/python/)
+- [/docs/articles/python/](https://stackbit-blog-backup.netlify.app/docs/articles/python/)
 
-- [/docs/interact/clock/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/clock/)
+- [/docs/interact/clock/](https://stackbit-blog-backup.netlify.app/docs/interact/clock/)
 
-- [/docs/docs/python/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/python/)
+- [/docs/docs/python/](https://stackbit-blog-backup.netlify.app/docs/docs/python/)
 
-- [/docs/interact/jupyter-notebooks/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/jupyter-notebooks/)
+- [/docs/interact/jupyter-notebooks/](https://stackbit-blog-backup.netlify.app/docs/interact/jupyter-notebooks/)
 
-- [/docs/interact/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/)
+- [/docs/interact/](https://stackbit-blog-backup.netlify.app/docs/interact/)
 
-- [/docs/faq/contact/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/contact/)
+- [/docs/faq/contact/](https://stackbit-blog-backup.netlify.app/docs/faq/contact/)
 
-- [/docs/quick-reference/docs/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/docs/)
+- [/docs/quick-reference/docs/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/docs/)
 
-- [/docs/interact/other-sites/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/other-sites/)
+- [/docs/interact/other-sites/](https://stackbit-blog-backup.netlify.app/docs/interact/other-sites/)
 
-- [/docs/quick-reference/new-repo-instructions/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/new-repo-instructions/)
+- [/docs/quick-reference/new-repo-instructions/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/new-repo-instructions/)
 
-- [/docs/quick-reference/Emmet/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/Emmet/)
+- [/docs/quick-reference/Emmet/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/Emmet/)
 
-- [/docs/quick-reference/installation/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/installation/)
+- [/docs/quick-reference/installation/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/installation/)
 
-- [/docs/quick-reference/vscode-themes/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/vscode-themes/)
+- [/docs/quick-reference/vscode-themes/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/vscode-themes/)
 
-- [/docs/react/createReactApp/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/createReactApp/)
+- [/docs/react/createReactApp/](https://stackbit-blog-backup.netlify.app/docs/react/createReactApp/)
 
-- [/docs/react/react2/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/react2/)
+- [/docs/react/react2/](https://stackbit-blog-backup.netlify.app/docs/react/react2/)
 
-- [/docs/quick-reference/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/)
+- [/docs/quick-reference/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/)
 
-- [/docs/react/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/)
+- [/docs/react/](https://stackbit-blog-backup.netlify.app/docs/react/)
 
-- [/docs/tools/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/)
+- [/docs/tools/](https://stackbit-blog-backup.netlify.app/docs/tools/)
 
-- [/docs/tools/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/notes-template/)
+- [/docs/tools/notes-template/](https://stackbit-blog-backup.netlify.app/docs/tools/notes-template/)
 
-- [/docs/tools/more-tools/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/more-tools/)
+- [/docs/tools/more-tools/](https://stackbit-blog-backup.netlify.app/docs/tools/more-tools/)
 
-- [/docs/tools/plug-ins/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/plug-ins/)
+- [/docs/tools/plug-ins/](https://stackbit-blog-backup.netlify.app/docs/tools/plug-ins/)
 
-- [/docs/articles/node/install/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/install/)
+- [/docs/articles/node/install/](https://stackbit-blog-backup.netlify.app/docs/articles/node/install/)
 
-- [/docs/tools/vscode/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/vscode/)
+- [/docs/tools/vscode/](https://stackbit-blog-backup.netlify.app/docs/tools/vscode/)
 
-- [/docs/articles/node/intro/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/intro/)
+- [/docs/articles/node/intro/](https://stackbit-blog-backup.netlify.app/docs/articles/node/intro/)
 
-- [/docs/articles/node/nodejs/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/nodejs/)
+- [/docs/articles/node/nodejs/](https://stackbit-blog-backup.netlify.app/docs/articles/node/nodejs/)
 
-- [/docs/articles/node/nodevsbrowser/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/nodevsbrowser/)
+- [/docs/articles/node/nodevsbrowser/](https://stackbit-blog-backup.netlify.app/docs/articles/node/nodevsbrowser/)
 
-- [/docs/articles/node/npm/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/npm/)
+- [/docs/articles/node/npm/](https://stackbit-blog-backup.netlify.app/docs/articles/node/npm/)
 
-- [/docs/articles/node/reading-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/reading-files/)
+- [/docs/articles/node/reading-files/](https://stackbit-blog-backup.netlify.app/docs/articles/node/reading-files/)
 
-- [/docs/articles/node/writing-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node/writing-files/)
+- [/docs/articles/node/writing-files/](https://stackbit-blog-backup.netlify.app/docs/articles/node/writing-files/)
 
-- [/docs/react-in-depth/](https://enthusiastic-spinach-93724.stackbit.app/docs/react-in-depth/)
+- [/docs/react-in-depth/](https://stackbit-blog-backup.netlify.app/docs/react-in-depth/)
 
-- [/docs/articles/article-compilation/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/article-compilation/)
+- [/docs/articles/article-compilation/](https://stackbit-blog-backup.netlify.app/docs/articles/article-compilation/)
 
-- [/docs/medium/my-websites/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/my-websites/)
+- [/docs/medium/my-websites/](https://stackbit-blog-backup.netlify.app/docs/medium/my-websites/)
 
-- [/docs/medium/social/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/social/)
+- [/docs/medium/social/](https://stackbit-blog-backup.netlify.app/docs/medium/social/)
 
-- [/docs/medium/medium-links/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/medium-links/)
+- [/docs/medium/medium-links/](https://stackbit-blog-backup.netlify.app/docs/medium/medium-links/)
 
-- [/docs/medium/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/)
+- [/docs/medium/](https://stackbit-blog-backup.netlify.app/docs/medium/)
 
 # Sitemap
 
 ---
 
-- [/blog/big-o-complexity/](https://enthusiastic-spinach-93724.stackbit.app/blog/big-o-complexity/)
+- [/blog/big-o-complexity/](https://stackbit-blog-backup.netlify.app/blog/big-o-complexity/)
 
-- [/showcase/](https://enthusiastic-spinach-93724.stackbit.app/showcase/)
+- [/showcase/](https://stackbit-blog-backup.netlify.app/showcase/)
 
-- [/blog/blog-archive/](https://enthusiastic-spinach-93724.stackbit.app/blog/blog-archive/)
+- [/blog/blog-archive/](https://stackbit-blog-backup.netlify.app/blog/blog-archive/)
 
-- [/blog/](https://enthusiastic-spinach-93724.stackbit.app/blog/)
+- [/blog/](https://stackbit-blog-backup.netlify.app/blog/)
 
-- [/review/](https://enthusiastic-spinach-93724.stackbit.app/review/)
+- [/review/](https://stackbit-blog-backup.netlify.app/review/)
 
-- [/blog/data-structures/](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures/)
+- [/blog/data-structures/](https://stackbit-blog-backup.netlify.app/blog/data-structures/)
 
-- [/blog/blogwcomments/](https://enthusiastic-spinach-93724.stackbit.app/blog/blogwcomments/)
+- [/blog/blogwcomments/](https://stackbit-blog-backup.netlify.app/blog/blogwcomments/)
 
-- [/blog/platform-docs/](https://enthusiastic-spinach-93724.stackbit.app/blog/platform-docs/)
+- [/blog/platform-docs/](https://stackbit-blog-backup.netlify.app/blog/platform-docs/)
 
-- [/blog/python-resources/](https://enthusiastic-spinach-93724.stackbit.app/blog/python-resources/)
+- [/blog/python-resources/](https://stackbit-blog-backup.netlify.app/blog/python-resources/)
 
-- [/blog/python-for-js-dev/](https://enthusiastic-spinach-93724.stackbit.app/blog/python-for-js-dev/)
+- [/blog/python-for-js-dev/](https://stackbit-blog-backup.netlify.app/blog/python-for-js-dev/)
 
-- [/docs/gallery/](https://enthusiastic-spinach-93724.stackbit.app/docs/gallery/)
+- [/docs/gallery/](https://stackbit-blog-backup.netlify.app/docs/gallery/)
 
-- [/blog/my-medium/](https://enthusiastic-spinach-93724.stackbit.app/blog/my-medium/)
+- [/blog/my-medium/](https://stackbit-blog-backup.netlify.app/blog/my-medium/)
 
-- [/docs/search/](https://enthusiastic-spinach-93724.stackbit.app/docs/search/)
+- [/docs/search/](https://stackbit-blog-backup.netlify.app/docs/search/)
 
-- [/docs/about/eng-portfolio/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/eng-portfolio/)
+- [/docs/about/eng-portfolio/](https://stackbit-blog-backup.netlify.app/docs/about/eng-portfolio/)
 
-- [/docs/about/intrests/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/intrests/)
+- [/docs/about/intrests/](https://stackbit-blog-backup.netlify.app/docs/about/intrests/)
 
-- [/docs/sitemap/](https://enthusiastic-spinach-93724.stackbit.app/docs/sitemap/)
+- [/docs/sitemap/](https://stackbit-blog-backup.netlify.app/docs/sitemap/)
 
-- [/docs/about/resume/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/resume/)
+- [/docs/about/resume/](https://stackbit-blog-backup.netlify.app/docs/about/resume/)
 
-- [/blog/web-scraping/](https://enthusiastic-spinach-93724.stackbit.app/blog/web-scraping/)
+- [/blog/web-scraping/](https://stackbit-blog-backup.netlify.app/blog/web-scraping/)
 
-- [/docs/about/job-search/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/job-search/)
+- [/docs/about/job-search/](https://stackbit-blog-backup.netlify.app/docs/about/job-search/)
 
-- [/docs/](https://enthusiastic-spinach-93724.stackbit.app/docs/)
+- [/docs/](https://stackbit-blog-backup.netlify.app/docs/)
 
-- [/docs/articles/buffers/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/buffers/)
+- [/docs/articles/buffers/](https://stackbit-blog-backup.netlify.app/docs/articles/buffers/)
 
-- [/docs/about/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/)
+- [/docs/about/](https://stackbit-blog-backup.netlify.app/docs/about/)
 
-- [/docs/articles/event-loop/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/event-loop/)
+- [/docs/articles/event-loop/](https://stackbit-blog-backup.netlify.app/docs/articles/event-loop/)
 
-- [/docs/articles/dev-dep/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/dev-dep/)
+- [/docs/articles/dev-dep/](https://stackbit-blog-backup.netlify.app/docs/articles/dev-dep/)
 
-- [/docs/articles/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/)
+- [/docs/articles/](https://stackbit-blog-backup.netlify.app/docs/articles/)
 
-- [/docs/articles/install/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/install/)
+- [/docs/articles/install/](https://stackbit-blog-backup.netlify.app/docs/articles/install/)
 
-- [/docs/articles/fs-module/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/fs-module/)
+- [/docs/articles/fs-module/](https://stackbit-blog-backup.netlify.app/docs/articles/fs-module/)
 
-- [/docs/articles/node-cli-args/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-cli-args/)
+- [/docs/articles/node-cli-args/](https://stackbit-blog-backup.netlify.app/docs/articles/node-cli-args/)
 
-- [/docs/articles/module-exports/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/module-exports/)
+- [/docs/articles/module-exports/](https://stackbit-blog-backup.netlify.app/docs/articles/module-exports/)
 
-- [/docs/articles/node-env-variables/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-env-variables/)
+- [/docs/articles/node-env-variables/](https://stackbit-blog-backup.netlify.app/docs/articles/node-env-variables/)
 
-- [/docs/articles/intro/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/intro/)
+- [/docs/articles/intro/](https://stackbit-blog-backup.netlify.app/docs/articles/intro/)
 
-- [/docs/articles/node-js-language/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-js-language/)
+- [/docs/articles/node-js-language/](https://stackbit-blog-backup.netlify.app/docs/articles/node-js-language/)
 
-- [/docs/articles/basic-web-dev/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/basic-web-dev/)
+- [/docs/articles/basic-web-dev/](https://stackbit-blog-backup.netlify.app/docs/articles/basic-web-dev/)
 
-- [/docs/articles/node-repl/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-repl/)
+- [/docs/articles/node-repl/](https://stackbit-blog-backup.netlify.app/docs/articles/node-repl/)
 
-- [/docs/articles/node-package-manager/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-package-manager/)
+- [/docs/articles/node-package-manager/](https://stackbit-blog-backup.netlify.app/docs/articles/node-package-manager/)
 
-- [/docs/articles/node-run-cli/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/node-run-cli/)
+- [/docs/articles/node-run-cli/](https://stackbit-blog-backup.netlify.app/docs/articles/node-run-cli/)
 
-- [/docs/articles/npx/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/npx/)
+- [/docs/articles/npx/](https://stackbit-blog-backup.netlify.app/docs/articles/npx/)
 
-- [/docs/articles/v8/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/v8/)
+- [/docs/articles/v8/](https://stackbit-blog-backup.netlify.app/docs/articles/v8/)
 
-- [/docs/articles/nodevsbrowser/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/nodevsbrowser/)
+- [/docs/articles/nodevsbrowser/](https://stackbit-blog-backup.netlify.app/docs/articles/nodevsbrowser/)
 
-- [/docs/articles/reading-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/reading-files/)
+- [/docs/articles/reading-files/](https://stackbit-blog-backup.netlify.app/docs/articles/reading-files/)
 
-- [/docs/articles/nodejs/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/nodejs/)
+- [/docs/articles/nodejs/](https://stackbit-blog-backup.netlify.app/docs/articles/nodejs/)
 
-- [/docs/articles/npm/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/npm/)
+- [/docs/articles/npm/](https://stackbit-blog-backup.netlify.app/docs/articles/npm/)
 
-- [/docs/articles/semantic/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/semantic/)
+- [/docs/articles/semantic/](https://stackbit-blog-backup.netlify.app/docs/articles/semantic/)
 
-- [/docs/articles/writing-files/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/writing-files/)
+- [/docs/articles/writing-files/](https://stackbit-blog-backup.netlify.app/docs/articles/writing-files/)
 
-- [/docs/audio/dynamic-time-warping/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/dynamic-time-warping/)
+- [/docs/audio/dynamic-time-warping/](https://stackbit-blog-backup.netlify.app/docs/audio/dynamic-time-warping/)
 
-- [/docs/audio/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/)
+- [/docs/audio/](https://stackbit-blog-backup.netlify.app/docs/audio/)
 
-- [/docs/audio/terms/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/terms/)
+- [/docs/audio/terms/](https://stackbit-blog-backup.netlify.app/docs/audio/terms/)
 
-- [/docs/articles/os-module/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/os-module/)
+- [/docs/articles/os-module/](https://stackbit-blog-backup.netlify.app/docs/articles/os-module/)
 
-- [/docs/community/](https://enthusiastic-spinach-93724.stackbit.app/docs/community/)
+- [/docs/community/](https://stackbit-blog-backup.netlify.app/docs/community/)
 
-- [/docs/community/video-chat/](https://enthusiastic-spinach-93724.stackbit.app/docs/community/video-chat/)
+- [/docs/community/video-chat/](https://stackbit-blog-backup.netlify.app/docs/community/video-chat/)
 
-- [/docs/content/archive/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/archive/)
+- [/docs/content/archive/](https://stackbit-blog-backup.netlify.app/docs/content/archive/)
 
-- [/docs/content/data-structures-algo/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/data-structures-algo/)
+- [/docs/content/data-structures-algo/](https://stackbit-blog-backup.netlify.app/docs/content/data-structures-algo/)
 
-- [/docs/content/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/)
+- [/docs/content/](https://stackbit-blog-backup.netlify.app/docs/content/)
 
-- [/docs/content/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/notes-template/)
+- [/docs/content/notes-template/](https://stackbit-blog-backup.netlify.app/docs/content/notes-template/)
 
-- [/docs/content/gatsby-Queries-Mutations/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/gatsby-Queries-Mutations/)
+- [/docs/content/gatsby-Queries-Mutations/](https://stackbit-blog-backup.netlify.app/docs/content/gatsby-Queries-Mutations/)
 
-- [/docs/content/projects/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/projects/)
+- [/docs/content/projects/](https://stackbit-blog-backup.netlify.app/docs/content/projects/)
 
-- [/docs/content/trouble-shooting/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/trouble-shooting/)
+- [/docs/content/trouble-shooting/](https://stackbit-blog-backup.netlify.app/docs/content/trouble-shooting/)
 
-- [/docs/audio/dfft/](https://enthusiastic-spinach-93724.stackbit.app/docs/audio/dfft/)
+- [/docs/audio/dfft/](https://stackbit-blog-backup.netlify.app/docs/audio/dfft/)
 
-- [/docs/content/algo/](https://enthusiastic-spinach-93724.stackbit.app/docs/content/algo/)
+- [/docs/content/algo/](https://stackbit-blog-backup.netlify.app/docs/content/algo/)
 
-- [/docs/docs/await-keyword/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/await-keyword/)
+- [/docs/docs/await-keyword/](https://stackbit-blog-backup.netlify.app/docs/docs/await-keyword/)
 
-- [/docs/docs/appendix/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/appendix/)
+- [/docs/docs/appendix/](https://stackbit-blog-backup.netlify.app/docs/docs/appendix/)
 
-- [/docs/docs/algolia/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/algolia/)
+- [/docs/docs/algolia/](https://stackbit-blog-backup.netlify.app/docs/docs/algolia/)
 
-- [/docs/docs/data-structures-docs/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/data-structures-docs/)
+- [/docs/docs/data-structures-docs/](https://stackbit-blog-backup.netlify.app/docs/docs/data-structures-docs/)
 
-- [/docs/docs/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/)
+- [/docs/docs/](https://stackbit-blog-backup.netlify.app/docs/docs/)
 
-- [/docs/docs/git-repos/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/git-repos/)
+- [/docs/docs/git-repos/](https://stackbit-blog-backup.netlify.app/docs/docs/git-repos/)
 
-- [/docs/docs/sitemap/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/sitemap/)
+- [/docs/docs/sitemap/](https://stackbit-blog-backup.netlify.app/docs/docs/sitemap/)
 
-- [/docs/docs/css/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/css/)
+- [/docs/docs/css/](https://stackbit-blog-backup.netlify.app/docs/docs/css/)
 
-- [/docs/docs/regex-in-js/](https://enthusiastic-spinach-93724.stackbit.app/docs/docs/regex-in-js/)
+- [/docs/docs/regex-in-js/](https://stackbit-blog-backup.netlify.app/docs/docs/regex-in-js/)
 
-- [/docs/faq/contact/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/contact/)
+- [/docs/faq/contact/](https://stackbit-blog-backup.netlify.app/docs/faq/contact/)
 
-- [/docs/interact/jupyter-notebooks/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/jupyter-notebooks/)
+- [/docs/interact/jupyter-notebooks/](https://stackbit-blog-backup.netlify.app/docs/interact/jupyter-notebooks/)
 
-- [/docs/interact/clock/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/clock/)
+- [/docs/interact/clock/](https://stackbit-blog-backup.netlify.app/docs/interact/clock/)
 
-- [/docs/interact/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/)
+- [/docs/interact/](https://stackbit-blog-backup.netlify.app/docs/interact/)
 
-- [/docs/faq/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/)
+- [/docs/faq/](https://stackbit-blog-backup.netlify.app/docs/faq/)
 
-- [/docs/interact/video-chat/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/video-chat/)
+- [/docs/interact/video-chat/](https://stackbit-blog-backup.netlify.app/docs/interact/video-chat/)
 
-- [/docs/interact/other-sites/](https://enthusiastic-spinach-93724.stackbit.app/docs/interact/other-sites/)
+- [/docs/interact/other-sites/](https://stackbit-blog-backup.netlify.app/docs/interact/other-sites/)
 
-- [/docs/faq/plug-ins/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/plug-ins/)
+- [/docs/faq/plug-ins/](https://stackbit-blog-backup.netlify.app/docs/faq/plug-ins/)
 
-- [/docs/medium/my-websites/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/my-websites/)
+- [/docs/medium/my-websites/](https://stackbit-blog-backup.netlify.app/docs/medium/my-websites/)
 
-- [/docs/medium/medium-links/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/medium-links/)
+- [/docs/medium/medium-links/](https://stackbit-blog-backup.netlify.app/docs/medium/medium-links/)
 
-- [/docs/medium/](https://enthusiastic-spinach-93724.stackbit.app/docs/medium/)
+- [/docs/medium/](https://stackbit-blog-backup.netlify.app/docs/medium/)
 
-- [/docs/quick-reference/create-react-app/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/create-react-app/)
+- [/docs/quick-reference/create-react-app/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/create-react-app/)
 
-- [/docs/javascript/constructor-functions/](https://enthusiastic-spinach-93724.stackbit.app/docs/javascript/constructor-functions/)
+- [/docs/javascript/constructor-functions/](https://stackbit-blog-backup.netlify.app/docs/javascript/constructor-functions/)
 
-- [/docs/quick-reference/Emmet/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/Emmet/)
+- [/docs/quick-reference/Emmet/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/Emmet/)
 
-- [/docs/python/](https://enthusiastic-spinach-93724.stackbit.app/docs/python/)
+- [/docs/python/](https://stackbit-blog-backup.netlify.app/docs/python/)
 
-- [/docs/quick-reference/awesome-static/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/awesome-static/)
+- [/docs/quick-reference/awesome-static/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/awesome-static/)
 
-- [/docs/quick-reference/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/)
+- [/docs/quick-reference/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/)
 
-- [/docs/quick-reference/new-repo-instructions/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/new-repo-instructions/)
+- [/docs/quick-reference/new-repo-instructions/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/new-repo-instructions/)
 
-- [/docs/quick-reference/installation/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/installation/)
+- [/docs/quick-reference/installation/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/installation/)
 
-- [/docs/quick-reference/google-firebase/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/google-firebase/)
+- [/docs/quick-reference/google-firebase/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/google-firebase/)
 
-- [/docs/quick-reference/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/notes-template/)
+- [/docs/quick-reference/notes-template/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/notes-template/)
 
-- [/docs/quick-reference/heroku-error-codes/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/heroku-error-codes/)
+- [/docs/quick-reference/heroku-error-codes/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/heroku-error-codes/)
 
-- [/docs/quick-reference/psql-setup/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/psql-setup/)
+- [/docs/quick-reference/psql-setup/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/psql-setup/)
 
-- [/docs/react/createReactApp/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/createReactApp/)
+- [/docs/react/createReactApp/](https://stackbit-blog-backup.netlify.app/docs/react/createReactApp/)
 
-- [/docs/quick-reference/topRepos/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/topRepos/)
+- [/docs/quick-reference/topRepos/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/topRepos/)
 
-- [/docs/react/react2/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/react2/)
+- [/docs/react/react2/](https://stackbit-blog-backup.netlify.app/docs/react/react2/)
 
-- [/docs/quick-reference/resources/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/resources/)
+- [/docs/quick-reference/resources/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/resources/)
 
-- [/docs/quick-reference/vscode/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/vscode/)
+- [/docs/quick-reference/vscode/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/vscode/)
 
-- [/docs/tools/dev-utilities/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/dev-utilities/)
+- [/docs/tools/dev-utilities/](https://stackbit-blog-backup.netlify.app/docs/tools/dev-utilities/)
 
-- [/docs/tools/data-structures/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/data-structures/)
+- [/docs/tools/data-structures/](https://stackbit-blog-backup.netlify.app/docs/tools/data-structures/)
 
-- [/docs/tools/markdown-html/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/markdown-html/)
+- [/docs/tools/markdown-html/](https://stackbit-blog-backup.netlify.app/docs/tools/markdown-html/)
 
-- [/docs/quick-reference/psql/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/psql/)
+- [/docs/quick-reference/psql/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/psql/)
 
 ---
 
@@ -785,83 +785,83 @@ This page contains links that give the impression that some of the site contents
 
 ##### [stackblitz demo hosted on firebase](https://exploring-firebase-4c023.firebaseapp.com/)
 
-- [/showcase/](https://enthusiastic-spinach-93724.stackbit.app/showcase/)
+- [/showcase/](https://stackbit-blog-backup.netlify.app/showcase/)
 
-- [/repos/](https://enthusiastic-spinach-93724.stackbit.app/repos/)
+- [/repos/](https://stackbit-blog-backup.netlify.app/repos/)
 
-- [/blog/](https://enthusiastic-spinach-93724.stackbit.app/blog/)
+- [/blog/](https://stackbit-blog-backup.netlify.app/blog/)
 
-- [/docs/jupyter-notebooks/](https://enthusiastic-spinach-93724.stackbit.app/docs/jupyter-notebooks/)
+- [/docs/jupyter-notebooks/](https://stackbit-blog-backup.netlify.app/docs/jupyter-notebooks/)
 
-- [/docs/portfolio-web/](https://enthusiastic-spinach-93724.stackbit.app/docs/portfolio-web/)
+- [/docs/portfolio-web/](https://stackbit-blog-backup.netlify.app/docs/portfolio-web/)
 
-- [/docs/python/](https://enthusiastic-spinach-93724.stackbit.app/docs/python/)
+- [/docs/python/](https://stackbit-blog-backup.netlify.app/docs/python/)
 
-- [/docs/About/](https://enthusiastic-spinach-93724.stackbit.app/docs/About/)
+- [/docs/About/](https://stackbit-blog-backup.netlify.app/docs/About/)
 
-- [/docs/About/resume/](https://enthusiastic-spinach-93724.stackbit.app/docs/About/resume/)
+- [/docs/About/resume/](https://stackbit-blog-backup.netlify.app/docs/About/resume/)
 
-- [/docs/about/](https://enthusiastic-spinach-93724.stackbit.app/docs/about/)
+- [/docs/about/](https://stackbit-blog-backup.netlify.app/docs/about/)
 
-- [/docs/faq/](https://enthusiastic-spinach-93724.stackbit.app/docs/faq/)
+- [/docs/faq/](https://stackbit-blog-backup.netlify.app/docs/faq/)
 
-- [/docs/quick-reference/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/)
+- [/docs/quick-reference/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/)
 
-- [/docs/quick-reference/Emmet/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/Emmet/)
+- [/docs/quick-reference/Emmet/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/Emmet/)
 
-- [/docs/quick-reference/new-repo-instructions/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/new-repo-instructions/)
+- [/docs/quick-reference/new-repo-instructions/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/new-repo-instructions/)
 
-- [/docs/links/Social/](https://enthusiastic-spinach-93724.stackbit.app/docs/links/Social/)
+- [/docs/links/Social/](https://stackbit-blog-backup.netlify.app/docs/links/Social/)
 
-- [/docs/links/](https://enthusiastic-spinach-93724.stackbit.app/docs/links/)
+- [/docs/links/](https://stackbit-blog-backup.netlify.app/docs/links/)
 
-- [/docs/quick-reference/installation/](https://enthusiastic-spinach-93724.stackbit.app/docs/quick-reference/installation/)
+- [/docs/quick-reference/installation/](https://stackbit-blog-backup.netlify.app/docs/quick-reference/installation/)
 
-- [/docs/links/my-websites/](https://enthusiastic-spinach-93724.stackbit.app/docs/links/my-websites/)
+- [/docs/links/my-websites/](https://stackbit-blog-backup.netlify.app/docs/links/my-websites/)
 
-- [/docs/](https://enthusiastic-spinach-93724.stackbit.app/docs/)
+- [/docs/](https://stackbit-blog-backup.netlify.app/docs/)
 
-- [/blog/community/](https://enthusiastic-spinach-93724.stackbit.app/blog/community/)
+- [/blog/community/](https://stackbit-blog-backup.netlify.app/blog/community/)
 
-- [/blog/python/](https://enthusiastic-spinach-93724.stackbit.app/blog/python/)
+- [/blog/python/](https://stackbit-blog-backup.netlify.app/blog/python/)
 
-- [/docs/resources/](https://enthusiastic-spinach-93724.stackbit.app/docs/resources/)
+- [/docs/resources/](https://stackbit-blog-backup.netlify.app/docs/resources/)
 
-- [/docs/react/createReactApp/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/createReactApp/)
+- [/docs/react/createReactApp/](https://stackbit-blog-backup.netlify.app/docs/react/createReactApp/)
 
-- [/docs/tools/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/)
+- [/docs/tools/](https://stackbit-blog-backup.netlify.app/docs/tools/)
 
-- [/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/notes-template/)
+- [/notes-template/](https://stackbit-blog-backup.netlify.app/notes-template/)
 
-- [/blog/my-medium/](https://enthusiastic-spinach-93724.stackbit.app/blog/my-medium/)
+- [/blog/my-medium/](https://stackbit-blog-backup.netlify.app/blog/my-medium/)
 
-- [/docs/tools/default-readme/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/default-readme/)
+- [/docs/tools/default-readme/](https://stackbit-blog-backup.netlify.app/docs/tools/default-readme/)
 
-- [/docs/tools/plug-ins/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/plug-ins/)
+- [/docs/tools/plug-ins/](https://stackbit-blog-backup.netlify.app/docs/tools/plug-ins/)
 
-- [/docs/react/react2/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/react2/)
+- [/docs/react/react2/](https://stackbit-blog-backup.netlify.app/docs/react/react2/)
 
-- [/docs/tools/notes-template/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/notes-template/)
+- [/docs/tools/notes-template/](https://stackbit-blog-backup.netlify.app/docs/tools/notes-template/)
 
-- [/review/](https://enthusiastic-spinach-93724.stackbit.app/review/)
+- [/review/](https://stackbit-blog-backup.netlify.app/review/)
 
-- [/docs/articles/basic-web-dev/](https://enthusiastic-spinach-93724.stackbit.app/docs/articles/basic-web-dev/)
+- [/docs/articles/basic-web-dev/](https://stackbit-blog-backup.netlify.app/docs/articles/basic-web-dev/)
 
-- [/blog/data-structures/](https://enthusiastic-spinach-93724.stackbit.app/blog/data-structures/)
+- [/blog/data-structures/](https://stackbit-blog-backup.netlify.app/blog/data-structures/)
 
-- [/docs/About/me/](https://enthusiastic-spinach-93724.stackbit.app/docs/About/me/)
+- [/docs/About/me/](https://stackbit-blog-backup.netlify.app/docs/About/me/)
 
-- [/docs/About/introduction2bg/](https://enthusiastic-spinach-93724.stackbit.app/docs/About/introduction2bg/)
+- [/docs/About/introduction2bg/](https://stackbit-blog-backup.netlify.app/docs/About/introduction2bg/)
 
-- [/docs/react/](https://enthusiastic-spinach-93724.stackbit.app/docs/react/)
+- [/docs/react/](https://stackbit-blog-backup.netlify.app/docs/react/)
 
-- [/docs/tools/Git-Html-Preview/](https://enthusiastic-spinach-93724.stackbit.app/docs/tools/Git-Html-Preview/)
+- [/docs/tools/Git-Html-Preview/](https://stackbit-blog-backup.netlify.app/docs/tools/Git-Html-Preview/)
 
-- [/gallery/](https://enthusiastic-spinach-93724.stackbit.app/gallery/)
+- [/gallery/](https://stackbit-blog-backup.netlify.app/gallery/)
 
 ## Blog
 
-- [introductory-react-part-2](https://enthusiastic-spinach-93724.stackbit.app/docs/react/react2/?source=your_stories_page-------------------------------------)
+- [introductory-react-part-2](https://stackbit-blog-backup.netlify.app/docs/react/react2/?source=your_stories_page-------------------------------------)
 
 - [a-very-quick-guide-to-calculating-big-o-computational-complexity](https://bryanguner.medium.com/a-very-quick-guide-to-calculating-big-o-computational-complexity-eb1557e85fa3?source=your_stories_page-------------------------------------)
 

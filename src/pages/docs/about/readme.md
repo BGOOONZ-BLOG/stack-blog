@@ -13,7 +13,7 @@ template: docs
 
 
 
-# [⇨WEBSITE🗺️⇦](https://enthusiastic-spinach-93724.stackbit.app/)
+# [⇨WEBSITE🗺️⇦](https://stackbit-blog-backup.netlify.app/)
 
 ##### [⇨Privacy policy⇦](https://codepen.io/bgoonz/pen/LYLJZrW)
 

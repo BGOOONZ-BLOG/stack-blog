@@ -13,7 +13,7 @@ template: docs
 
 # Reference:
 
--   [SITEMAP🗺🟈]\(https://enthusiastic-spinach-93724.stackbit.app/docs/sitemap/)
+-   [SITEMAP🗺🟈]\(https://stackbit-blog-backup.netlify.app/docs/sitemap/)
 
 # Bookmarks:
 

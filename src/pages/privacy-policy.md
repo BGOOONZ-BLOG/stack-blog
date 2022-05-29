@@ -13,11 +13,11 @@ template: docs
 
     PRIVACY NOTICE
 
-- Note: Visit our website at <https://enthusiastic-spinach-93724.stackbit.app/>
+- Note: Visit our website at <https://stackbit-blog-backup.netlify.app/>
 
 <!---->
 
--  Note:  Use our Facebook application — <https://enthusiastic-spinach-93724.stackbit.app/>
+-  Note:  Use our Facebook application — <https://stackbit-blog-backup.netlify.app/>
 
 <!---->
 
